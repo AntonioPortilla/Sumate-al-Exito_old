@@ -1,0 +1,57 @@
+#CCBVideo_Modal_Window{
+	background:#FFF;	
+}
+
+#cbc-playlist-items{
+	display:block;
+	position:absolute;
+	width:30%;
+	height:100%;
+	left:0px;
+	overflow:auto;
+}
+	#cbc-playlist-items .inside{
+		display:block;
+		padding:10px;
+	}
+	#cbc-playlist-items #ccb-list-items{
+		display:block;		
+	}
+	#cbc-playlist-items #ccb-list-items .playlist_item{
+		margin-bottom:2px;
+		padding-bottom:2px;
+		border-bottom:1px #eee solid;
+		line-height:20px;
+	}
+	#cbc-playlist-items #ccb-list-items span.duration{
+		color:#999;
+		font-style:italic;
+	}
+	#cbc-playlist-items #ccb-list-items a.cbc-del-item{
+		text-indent:-999px;
+		display:block;
+		width:16px;
+		margin-right:5px;
+		float:left;
+		background:url(../images/delete-small.png) center center no-repeat;
+	}
+	
+#cbc-display-videos{
+	display:block;
+	position:absolute;
+	width:69%;
+	height:100%;
+	right:0px;
+	border-left:1px #CCC solid;
+}
+
+#cbc-shortcode-2-post{
+	background-image:url(../images/video.png);
+	background-position:3px center;
+	background-repeat:no-repeat;
+	padding-left:23px;
+}
+
+#cbc-insert-playlist-shortcode{
+	white-space:nowrap;
+}

@@ -1,0 +1,70 @@
+.cbc-yt-playlist.default{
+	display:block;
+	max-width:100%;
+	margin:20px 0px;
+}
+
+.cbc-yt-playlist.default .cbc-playlist-wrap{
+	display:block;
+	width:100%;
+}
+
+	.cbc-yt-playlist.default .cbc-playlist-wrap .playlist-visibility{
+		display:block;
+		position:relative;
+		width:50px;
+		height:20px;
+		background-position:center center;
+		background-repeat:no-repeat;
+		bottom:0px;
+		right:0px;
+		outline:0px;
+		margin-left:auto;
+	}
+	.cbc-yt-playlist.default .cbc-playlist-wrap .playlist-visibility.collapse{
+		background-image:url(images/collapse.png);
+	}
+	.cbc-yt-playlist.default .cbc-playlist-wrap .playlist-visibility.expand{
+		background-image:url(images/expand.png);
+	}
+
+	.cbc-yt-playlist.default .cbc-playlist{
+		display:block;
+		height:200px;
+		overflow:auto;
+		border:1px #CCC solid;
+		padding:0px 10px;
+	}
+		.cbc-yt-playlist.default .cbc-playlist .cbc-playlist-item{
+			display:block;
+			width:100%;
+			float:left;
+			border-bottom:1px #ccc solid;
+			padding-bottom:4px;
+			padding-top:4px;
+		}
+			.cbc-yt-playlist.default .cbc-playlist .cbc-playlist-item a{
+				color:#000;
+				text-decoration:none;
+			}
+			.cbc-yt-playlist.default .cbc-playlist .cbc-playlist-item a span.duration{
+				color:#999;
+				font-style:italic;
+			}
+			.cbc-yt-playlist.default .cbc-playlist .cbc-playlist-item img{
+				width:50px;
+				padding:2px;
+				float:left;
+				margin-right:10px;
+				border:1px #CCC solid;
+			}
+	.cbc-yt-playlist.default .cbc-player{
+		display:block;
+		position:relative;
+		max-width:100%;
+		overflow:hidden;
+		background-image:url(images/loading.gif);
+		background-color:#000000;
+		background-position:center center;
+		background-repeat:no-repeat;		
+	}		

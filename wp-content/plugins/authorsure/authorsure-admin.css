@@ -1,0 +1,16 @@
+.settings_page_authorsure_admin label  { float:left; min-width: 160px; }
+.settings_page_authorsure_admin ul.rel-methods li{ margin-left: 20px; list-style: square outside none; }
+.settings_page_authorsure_admin h4 { vertical-align: bottom; margin: 20px 0px 0px 0px;}
+.settings_page_authorsure_admin h4 fieldset { display: inline-block; }
+.settings_page_authorsure_admin input[type="text"] { width:220px; }
+.settings_page_authorsure_admin form.signup { width:180px; }
+.settings_page_authorsure_admin form.signup label { font-weight: bold}
+.settings_page_authorsure_admin form.signup label#lsubject { display: none;}
+.settings_page_authorsure_admin form.signup input[type="text"] { width:180px; background-color:#E4F7FC;}
+.settings_page_authorsure_admin form.signup input[type="submit"] { width:180px; height:70px; margin-top: 10px; border:0;
+  background-repeat: no-repeat; background-color:transparent;
+  background-image: url(images/free-video-tutorials-button.png); cursor:pointer;
+}
+#icon-authorsure {   background-repeat: no-repeat; background-color:transparent;
+  background-image: url(images/authorsure-icon-32.png); cursor:pointer;
+  }

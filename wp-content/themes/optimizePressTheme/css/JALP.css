@@ -1,0 +1,562 @@
+/*
+ * Modal JALP
+ * by @JulioLaveriano
+ */
+/*
+ * visite the website
+ * www.juliolaveriano.com
+*/
+/* 
+  ==========================================================================
+   WACHIN SOY TU PADRE
+   ========================================================================== 
+*/
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block;
+}
+
+a:focus {
+  outline: thin dotted;
+}
+a:active,
+a:hover {
+  outline: 0;
+}
+img {
+  border: 0;
+}
+svg:not(:root) {
+  overflow: hidden;
+}
+figure {
+  margin: 0;
+}
+h2#mi-title {
+  font-size: 22px;
+  margin: 0;
+  color: #FFF;
+}
+a {
+  color: #27aae2;
+}
+a:hover {
+  text-decoration: none;
+}
+.download, .call-modal, .content-tabbed > h3 > a, .semantic-content .close-action,
+.semantic-content .open-modal {
+  -webkit-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+  display: inline-block;
+  background: #111;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 2px;
+  padding: 0.5em 1em;
+}
+.download:visited, .call-modal:visited, .content-tabbed > h3 > a:visited, .semantic-content .close-action:visited,
+.semantic-content .open-modal:visited {
+  color: #fff;
+}
+.download:hover, .call-modal:hover, .content-tabbed > h3 > a:hover, .semantic-content .close-action:hover,
+.semantic-content .open-modal:hover {
+  background: #3db3e5;
+}
+
+.site-header {
+  background: #27aae2;
+  padding: 2em 0 1em;
+  text-align: center;
+  color: #fff;
+}
+.site-header h1 {
+  font-size: 80px;
+  font-size: 5rem;
+  display: block;
+  line-height: 1;
+  margin-bottom: 0.1em;
+  text-shadow: 0 1px 1px rgba(13, 73, 99, 0.8);
+}
+@media screen and (max-width: 30em) {
+  .site-header h1 {
+    margin-left: .2em;
+    margin-right: .2em;
+    font-size: 3em;
+  }
+}
+.site-header > p {
+  margin-top: 0;
+  font-size: 1.2em;
+}
+
+.download {
+  margin-top: 0.5em;
+}
+.download:hover {
+  -webkit-box-shadow: 0 0 2px #136a90;
+  box-shadow: 0 0 2px #136a90;
+  background: #2b2b2b;
+}
+
+.changelog {
+  font-size: 14.4px;
+  font-size: 0.9rem;
+  margin-top: 5px;
+  color: #fff;
+}
+.changelog:visited {
+  color: #fff;
+}
+
+.artwork {
+  max-width: 100%;
+}
+@media screen and (max-width: 30em) {
+  .artwork {
+    display: none;
+  }
+}
+
+.main {
+  max-width: 50em;
+  margin: 0 auto;
+  padding: 0 1.5em;
+  text-align: left;
+}
+
+.on-github {
+  padding: 16px 32px 12px;
+  padding: 1rem 2rem 0.75rem;
+  background-color: #c4e8f7;
+  text-align: center;
+}
+.on-github > p {
+  margin: 0;
+}
+
+.icon-github {
+  margin-right: 8px;
+  margin-right: 0.5rem;
+  display: inline-table;
+  width: 24px;
+  height: 24px;
+  background: url(../img/github.svg) no-repeat;
+  background-size: contain;
+  text-indent: -200px;
+  overflow: hidden;
+}
+
+.features {
+  overflow: hidden;
+  margin: 1em -.7em 1.4em;
+}
+.features > div {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  display: inline;
+  width: 33.333%;
+  padding: 0 .7em;
+}
+@media screen and (max-width: 30em) {
+  .features > div {
+    float: none;
+    display: block;
+    width: 100%;
+  }
+}
+.features h2 {
+  font-size: 24px;
+  font-size: 1.5rem;
+}
+
+.selling {
+  font-weight: bold;
+}
+
+.pages ul {
+  list-style: none;
+  padding: 0;
+  overflow: hidden;
+  margin: 0 -20px;
+}
+.pages ul > li {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0 16px;
+  padding: 0 1rem;
+  float: left;
+  display: inline;
+  width: 33%;
+}
+.pages ul img {
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  padding: 3px;
+  background: #ddd;
+  width: 100%;
+  height: auto;
+}
+@media screen and (max-width: 30em) {
+  .pages ul > li {
+    float: none;
+    display: block;
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 30em) {
+  .call-modal {
+    display: block;
+    text-align: center;
+    margin-bottom: 0.5em;
+  }
+}
+
+.content-tabbed {
+  position: relative;
+}
+.content-tabbed > h3 {
+  display: inline-block;
+  margin-top: 0;
+  padding-top: 1em;
+}
+.content-tabbed > h3:target > a, .content-tabbed > h3.is-active > a {
+  background: #3db3e5;
+}
+@media screen and (max-width: 30em) {
+  .content-tabbed {
+    height: auto !important;
+  }
+  .content-tabbed > h3 {
+    display: block;
+    padding-top: 0.5em;
+  }
+  .content-tabbed > h3 > a {
+    display: block;
+  }
+}
+
+.tab-content {
+  display: none;
+}
+.tab-content-anchor:target + .tab-content, .tab-content-anchor.is-active + .tab-content {
+  display: block;
+}
+.js .tab-content-anchor:target + .tab-content, .js .tab-content-anchor.is-active + .tab-content {
+  position: absolute;
+  max-width: 100%;
+}
+@media screen and (max-width: 30em) {
+  .js .tab-content-anchor:target + .tab-content, .js .tab-content-anchor.is-active + .tab-content {
+    position: relative;
+  }
+}
+
+.big-image > img {
+  max-width: 100%;
+}
+
+.small-images {
+  margin: 0 -0.25em;
+  max-width: none !important;
+  overflow: hidden;
+}
+.small-images img {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  padding: 0.15em 0.25em;
+  width: 33.33%;
+}
+@media screen and (max-width: 30em) {
+  .small-images > img {
+    max-width: 100%;
+    width: 100%;
+  }
+}
+
+.site-footer {
+  margin: 0 auto;
+  padding: 2em 0;
+  text-align: center;
+}
+
+/**
+ * Modal as reusable module
+ *
+ * Usage:
+ *    selector {
+ *        @extend %modal;
+ *    }
+ */
+/*
+ * Configuration
+ */
+
+
+.has-overlay {
+  overflow: hidden;
+}
+.has-overlay > body {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.semantic-content {
+  -webkit-transform: translate(0, 100%);
+  -moz-transform: translate(0, 100%);
+  -o-transform: translate(0, 100%);
+  -ms-transform: translate(0, 100%);
+  transform: translate(0, 100%);
+  -webkit-transform: translate3d(0, 100%, 0);
+  transform: translate3d(0, 100%, 0);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 999;
+  opacity: 0;
+  color: #222;
+  line-height: 1.3;
+  display: none\9;
+}
+.semantic-content:target {
+  -webkit-transform: translate(0, 0);
+  -moz-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  transform: translate(0, 0);
+  opacity: 1;
+  z-index: 999;
+}
+.is-active.semantic-content {
+  display: block\9;
+}
+.semantic-content:target {
+  display: block\9;
+}
+.semantic-content .modal-inner {
+  /*position: absolute;
+  top: 50px;
+  left: 50%;
+  z-index: 20;
+  margin-left: -325px;
+  width: 650px;
+  overflow-x: hidden;
+  border-radius: 2px;
+  background: #fff;
+  -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);*/
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  z-index: 20;
+  margin-left: -300px;
+  width: 600px;  
+  overflow-x: hidden; 
+  border-radius: 2px; 
+  background: transparent;
+  -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.6); 
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);   
+}
+.semantic-content .modal-inner > img,
+.semantic-content .modal-inner > video,
+.semantic-content .modal-inner > iframe {
+  /*width: 100%;
+  height: auto;
+  min-height: 300px;*/
+  width: 100%;
+  height: 100%;
+  min-height: 350px;  
+}
+.semantic-content .modal-inner > img {
+  width: auto;
+  max-width: 100%;
+}
+.semantic-content header {
+  background: #50BDD1;
+  border-bottom: 1px solid #dddddd;
+  padding: 0 1.2em;
+}
+.semantic-content header > h2 {
+  margin: 0.5em 0;
+}
+.semantic-content .modal-content {
+  max-height: 400px;
+  max-height: 70vh;
+  border-bottom: 1px solid #dddddd;
+  padding: 15px 1.2em;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.semantic-content .modal-content > * {
+  max-width: 100%;
+}
+.semantic-content footer {
+  border-top: 1px solid white;
+  padding: 0 1.2em 18px;
+  background: #f0f0f0;
+  border-radius: 2px;
+}
+.semantic-content .modal-close {
+  display: block;
+  text-indent: -100px;
+  overflow: hidden;
+}
+.semantic-content .modal-close:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAEElEQVR42gEFAPr/AAAAAMwA0QDNTiUx4gAAAABJRU5ErkJggg==");
+}
+.semantic-content .modal-close:after {
+  display: none;
+  content: '\00d7';
+  position: absolute;
+  top: 25px;
+  left: 50%;
+  z-index: 20;
+  margin-left: 285px;
+  background: #fff;
+  border-radius: 2px;
+  padding: 2px 8px;
+  font-size: 1.2em;
+  text-decoration: none;
+  text-indent: 0;
+}
+@media screen and (max-width: 690px) {
+  .semantic-content .modal-inner {
+    width: auto;
+    left: 20px;
+    right: 20px;
+    margin-left: 0;
+  }
+  .semantic-content .modal-close {
+    left: auto;
+    right: 33px;
+    margin-left: 0;
+  }
+  .semantic-content .modal-close:after {
+    margin-left: 40%;
+  }
+}
+@media screen and (max-width: 30em) {
+  .semantic-content {
+    -webkit-transform: translate(0, 400px);
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+    -webkit-transition: -webkit-transform .25s ease-in-out, opacity 1ms .25s;
+    -moz-transition: -moz-transform .25s ease-in-out, opacity 1ms .25s;
+    -o-transition: -o-transform .25s ease-in-out, opacity 1ms .25s;
+    -ms-transition: -ms-transform .25s ease-in-out, opacity 1ms .25s;
+    transition: transform .25s ease-in-out, opacity 1ms .25s;
+    display: block;
+    height: 100%;
+    bottom: auto;
+  }
+  .semantic-content:target {
+    -webkit-transition: -webkit-transform .25s ease-in-out;
+    -moz-transition: -moz-transform .25s ease-in-out;
+    -o-transition: -o-transform .25s ease-in-out;
+    -ms-transition: -ms-transform .25s ease-in-out;
+    transition: transform .25s ease-in-out;
+  }
+  .semantic-content:before {
+    background-color: #27aae2;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#27aae2), to(#1c9cd3));
+    background-image: -webkit-linear-gradient(top, #27aae2, #1c9cd3);
+    background-image: -moz-linear-gradient(top, #27aae2, #1c9cd3);
+    background-image: -o-linear-gradient(top, #27aae2, #1c9cd3);
+    background-image: linear-gradient(to bottom, #27aae2, #1c9cd3);
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 30;
+    height: 3em;
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+  }
+  .semantic-content .modal-inner {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-top: 3em;
+    height: 100%;
+    overflow: scroll;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+  .semantic-content .modal-content {
+    max-height: none;
+  }
+  .semantic-content .modal-close {
+    right: auto;
+    text-decoration: none;
+  }
+  .semantic-content .modal-close:before {
+    display: none;
+  }
+  .semantic-content .modal-close:after {
+    content: attr(data-close);
+    top: 0.4em;
+    left: 1em;
+    z-index: 40;
+    margin-left: 0;
+    font-size: 1em;
+    padding: 0.5em 1em;
+  }
+}
+@media screen and (max-height: 46em) and (min-width: 30em) {
+  .semantic-content .modal-content {
+    max-height: 340px;
+    max-height: 50vh;
+  }
+}
+@media screen and (max-height: 36em) and (min-width: 30em) {
+  .semantic-content .modal-content {
+    max-height: 265px;
+    max-height: 40vh;
+  }
+}
+
+@media screen and (min-width: 30em) {
+  .semantic-content {
+    -webkit-transition: opacity 0.4s;
+    -o-transition: opacity 0.4s;
+    transition: opacity 0.4s;
+  }
+}
+
+.semantic-content footer > p {
+  margin-bottom: 0;
+}
+.semantic-content .close-action,
+.semantic-content .open-modal {
+  margin-right: 5px;
+}

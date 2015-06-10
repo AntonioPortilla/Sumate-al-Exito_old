@@ -1,0 +1,35 @@
+label.cbc_error{
+	color:red;
+	font-weight:bold;
+}
+input.cbc_error{
+	border:1px red solid!important;
+}
+
+.cbc-ajax-response{
+	/*
+	display:block;
+	float:left;
+	*/
+	font-size:12px;
+	line-height:20px;
+	padding-top:2px;
+	padding-bottom:2px;
+	background-position:left center;
+	background-repeat:no-repeat;	
+}
+.cbc-ajax-response.loading{
+	background-image:url(../images/loading-small.gif);	
+	padding-left:20px;
+	font-style:italic;
+}
+.cbc-ajax-response.error{
+	background-image:url(../images/error-small.png);	
+	padding-left:20px;
+	color:#FF0000;
+}
+.cbc-ajax-response.success{
+	background-image:url(../images/success-small.png);	
+	padding-left:20px;
+	color:#000;
+}

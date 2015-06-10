@@ -1,0 +1,15 @@
+a.cbc-active{
+	color:green;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a.cbc-installed{
+	color:#000;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a.not-installed{
+	color:#999;
+}

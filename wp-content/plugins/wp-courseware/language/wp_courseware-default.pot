@@ -1,0 +1,3179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Courseware 2.4\n"
+"POT-Creation-Date: 2013-08-11 06:17-0700\n"
+"PO-Revision-Date: 2013-08-11 06:18-0700\n"
+"Last-Translator: \n"
+"Language-Team: Fly Plugins\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: lib\n"
+"X-Poedit-SearchPath-2: wplib\n"
+
+#: certificate_gen.php:35
+msgid "This is an example course..."
+msgstr ""
+
+#: certificate_gen.php:76
+msgid "No certificate was found."
+msgstr ""
+
+#: wp-courseware.php:131
+msgid ""
+"Your licence key has expired. Please visit <a href=\"http://www.flyplugins."
+"com\" target=\"_blank\">FlyPlugins.com</a> to renew your licence."
+msgstr ""
+
+#: wp-courseware.php:132
+msgid ""
+"Please enter a valid licence key or visit <a href=\"http://www.flyplugins.com"
+"\" target=\"_blank\">FlyPlugins.com</a> to purchase a licence."
+msgstr ""
+
+#: wp-courseware.php:133
+msgid ""
+"You've reached the maximum number of websites for this licence. Please visit "
+"<a href=\"http://www.flyplugins.com\" target=\"_blank\">FlyPlugins.com</a> "
+"to upgrade your licence."
+msgstr ""
+
+#: wp-courseware.php:380
+msgid "Training Courses"
+msgstr ""
+
+#: wp-courseware.php:385
+msgid "WP Courseware - New Course"
+msgstr ""
+
+#: wp-courseware.php:386 lib/admin_only.inc.php:412
+msgid "Add Course"
+msgstr ""
+
+#: wp-courseware.php:391
+msgid "WP Courseware - Gradebook"
+msgstr ""
+
+#: wp-courseware.php:392
+msgid "Gradebook"
+msgstr ""
+
+#: wp-courseware.php:397
+msgid "WP Courseware - Modify Module"
+msgstr ""
+
+#: wp-courseware.php:398 lib/admin_only.inc.php:246
+#: lib/admin_only.inc.php:1103
+msgid "Add Module"
+msgstr ""
+
+#: wp-courseware.php:407
+msgid "WP Courseware - Modify Quiz"
+msgstr ""
+
+#: wp-courseware.php:408 lib/admin_only.inc.php:1275
+msgid "Add Quiz/Survey"
+msgstr ""
+
+#: wp-courseware.php:413
+msgid "WP Courseware - Quiz Summary"
+msgstr ""
+
+#: wp-courseware.php:414
+msgid "Quiz Summary"
+msgstr ""
+
+#: wp-courseware.php:419
+msgid "WP Courseware - Module &amp; Unit Ordering"
+msgstr ""
+
+#: wp-courseware.php:420
+msgid "Module &amp; Unit Ordering"
+msgstr ""
+
+#: wp-courseware.php:436
+msgid "WP Courseware - "
+msgstr ""
+
+#: wp-courseware.php:451
+msgid "WP Courseware - Import/Export Course"
+msgstr ""
+
+#: wp-courseware.php:452
+msgid "Import/Export"
+msgstr ""
+
+#: wp-courseware.php:461
+msgid "WP Courseware - Convert Page/Post to Course Unit"
+msgstr ""
+
+#: wp-courseware.php:462
+msgid "Convert Page/Post"
+msgstr ""
+
+#: wp-courseware.php:467 lib/admin_only.inc.php:2813
+msgid "WP Courseware - Settings"
+msgstr ""
+
+#: wp-courseware.php:468 lib/admin_only.inc.php:209
+msgid "Settings"
+msgstr ""
+
+#: wp-courseware.php:474
+msgid "WP Courseware - Certificates"
+msgstr ""
+
+#: wp-courseware.php:475 lib/admin_only.inc.php:994
+msgid "Certificates"
+msgstr ""
+
+#: wp-courseware.php:481 lib/documentation.inc.php:126
+msgid "WP Courseware - Documentation"
+msgstr ""
+
+#: wp-courseware.php:482
+msgid "Documentation"
+msgstr ""
+
+#: wp-courseware.php:486
+msgid "WP Courseware - Update User Course Access Permissions"
+msgstr ""
+
+#: wp-courseware.php:487
+msgid "Update Course Access"
+msgstr ""
+
+#: wp-courseware.php:491
+msgid "WP Courseware - View User Progress"
+msgstr ""
+
+#: wp-courseware.php:492
+msgid "View User Progress"
+msgstr ""
+
+#: wp-courseware.php:496
+msgid "WP Courseware - View Quiz/Survey Results"
+msgstr ""
+
+#: wp-courseware.php:497
+msgid "View Quiz Results"
+msgstr ""
+
+#: wp-courseware.php:507 lib/class_members.inc.php:405
+#: lib/frontend_only.inc.php:952
+msgid "WP Courseware"
+msgstr ""
+
+#: wp-courseware.php:583
+msgid "Uploading:"
+msgstr ""
+
+#: wp-courseware.php:584 lib/frontend_only.inc.php:401
+msgid "Please provide an answer for all of the questions."
+msgstr ""
+
+#: wp-courseware.php:658 wp-courseware.php:669
+msgid "Course Units"
+msgstr ""
+
+#: wp-courseware.php:659
+msgid "Course Unit"
+msgstr ""
+
+#: wp-courseware.php:660
+msgid "Add New"
+msgstr ""
+
+#: wp-courseware.php:661
+msgid "Add New Course Unit"
+msgstr ""
+
+#: wp-courseware.php:662
+msgid "Edit Course Unit"
+msgstr ""
+
+#: wp-courseware.php:663
+msgid "New Course Unit"
+msgstr ""
+
+#: wp-courseware.php:664
+msgid "View Course Unit"
+msgstr ""
+
+#: wp-courseware.php:665
+msgid "Search Course Units"
+msgstr ""
+
+#: wp-courseware.php:666
+msgid "No course units found"
+msgstr ""
+
+#: wp-courseware.php:667
+msgid "No course units found in Trash"
+msgstr ""
+
+#: wp-courseware.php:668
+msgid "Parent Course Unit:"
+msgstr ""
+
+#: wp-courseware.php:792 lib/admin_only.inc.php:932
+msgid "You have now completed the whole course. Congratulations!"
+msgstr ""
+
+#: wp-courseware.php:803 lib/admin_only.inc.php:937
+msgid ""
+"Your quiz has been submitted for grading by the course instructor. Once your "
+"grade has been entered, you will be able access the next unit."
+msgstr ""
+
+#: wp-courseware.php:811 lib/admin_only.inc.php:938
+msgid ""
+"Your quiz has been submitted for grading by the course instructor. You have "
+"now completed this unit."
+msgstr ""
+
+#: wp-courseware.php:1072
+msgid ""
+"For <b>WP Courseware</b> unit URLs to work correctly, please ensure your "
+"<b>permalinks</b> use just <code>/%postname%/</code>."
+msgstr ""
+
+#: wp-courseware.php:1073
+msgid ""
+"You can update the permalink settings to use just <b>Post Name</b> on the"
+msgstr ""
+
+#: wp-courseware.php:1075
+msgid "Permalink Settings page"
+msgstr ""
+
+#: wp-courseware.php:1089
+msgid ""
+"<b>WP Courseware</b> is not currently supported on WordPress Multisite. "
+"<b>Yet</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:9
+msgid "Order Course Modules &amp; Units"
+msgstr ""
+
+#: lib/admin_only.inc.php:24 lib/admin_only.inc.php:399
+#: lib/admin_only.inc.php:1422 lib/export_data.inc.php:124
+msgid "Sorry, but that course could not be found."
+msgstr ""
+
+#: lib/admin_only.inc.php:30
+msgid "Editing Course:"
+msgstr ""
+
+#: lib/admin_only.inc.php:39
+msgid "Unassigned Units"
+msgstr ""
+
+#: lib/admin_only.inc.php:75
+msgid "Unassigned Quizzes"
+msgstr ""
+
+#: lib/admin_only.inc.php:112 lib/admin_only.inc.php:280
+#: lib/admin_only.inc.php:3810 lib/admin_only.inc.php:4842
+#: lib/shortcodes.inc.php:277
+msgid "Module"
+msgstr ""
+
+#: lib/admin_only.inc.php:153 lib/admin_only.inc.php:295
+msgid "No modules yet."
+msgstr ""
+
+#: lib/admin_only.inc.php:159
+msgid "Save Changes to Ordering"
+msgstr ""
+
+#: lib/admin_only.inc.php:160
+msgid "Ordering has changed. Ready to save changes?"
+msgstr ""
+
+#: lib/admin_only.inc.php:177
+msgid "My Training Courses"
+msgstr ""
+
+#: lib/admin_only.inc.php:197 lib/admin_only.inc.php:2512
+msgid "ID"
+msgstr ""
+
+#: lib/admin_only.inc.php:201 lib/admin_only.inc.php:426
+#: lib/admin_only.inc.php:3688
+msgid "Course Title"
+msgstr ""
+
+#: lib/admin_only.inc.php:205 lib/admin_only.inc.php:2520
+#: lib/admin_only.inc.php:3692
+msgid "Description"
+msgstr ""
+
+#: lib/admin_only.inc.php:213
+msgid "Total Units"
+msgstr ""
+
+#: lib/admin_only.inc.php:217
+msgid "Modules"
+msgstr ""
+
+#: lib/admin_only.inc.php:221 lib/admin_only.inc.php:2541
+#: lib/admin_only.inc.php:3797 lib/admin_only.inc.php:4915
+#: lib/class_members.inc.php:236
+msgid "Actions"
+msgstr ""
+
+#: lib/admin_only.inc.php:247
+msgid "Edit Course Settings"
+msgstr ""
+
+#: lib/admin_only.inc.php:248
+msgid "Modules, Units &amp; Quiz Ordering"
+msgstr ""
+
+#: lib/admin_only.inc.php:249
+msgid "Access Grade Book"
+msgstr ""
+
+#: lib/admin_only.inc.php:257
+msgid "Give new users access by default"
+msgstr ""
+
+#: lib/admin_only.inc.php:262
+msgid "Require unit completion before showing next"
+msgstr ""
+
+#: lib/admin_only.inc.php:266
+msgid "Generate certificates on course completion"
+msgstr ""
+
+#: lib/admin_only.inc.php:286 lib/admin_only.inc.php:1089
+#: lib/admin_only.inc.php:1097
+msgid "Edit Module"
+msgstr ""
+
+#: lib/admin_only.inc.php:346
+msgid "This course has "
+msgstr ""
+
+#: lib/admin_only.inc.php:348
+msgid " manual grading."
+msgstr ""
+
+#: lib/admin_only.inc.php:372 lib/admin_only.inc.php:3735
+#: lib/admin_only.inc.php:3936
+msgid "There are currently no courses to show. Why not create one?"
+msgstr ""
+
+#: lib/admin_only.inc.php:398 lib/admin_only.inc.php:406
+msgid "Edit Course"
+msgstr ""
+
+#: lib/admin_only.inc.php:430
+msgid "The title of your course."
+msgstr ""
+
+#: lib/admin_only.inc.php:436
+msgid ""
+"Please specify a name for your course, up to a maximum of 150 characters, "
+"just no angled brackets (&lt; or &gt;). Your trainees will be able to see "
+"this course title."
+msgstr ""
+
+#: lib/admin_only.inc.php:441
+msgid "Course Description"
+msgstr ""
+
+#: lib/admin_only.inc.php:445
+msgid ""
+"The description of this course. Your trainees will be able to see this "
+"course description."
+msgstr ""
+
+#: lib/admin_only.inc.php:450
+msgid "Please limit the description of your course to 5000 characters."
+msgstr ""
+
+#: lib/admin_only.inc.php:464
+msgid "When do users see the next unit on the course?"
+msgstr ""
+
+#: lib/admin_only.inc.php:467
+msgid ""
+"Can a user see all possible course units? Or must they complete previous "
+"units before seeing the next unit?"
+msgstr ""
+
+#: lib/admin_only.inc.php:469
+msgid ""
+"<b>All Units Visible</b> - All units are visible regardless of completion "
+"progress."
+msgstr ""
+
+#: lib/admin_only.inc.php:470
+msgid ""
+"<b>Only Completed/Next Units Visible</b> - Only show units that have been "
+"completed, plus the next unit that the user can start."
+msgstr ""
+
+#: lib/admin_only.inc.php:481
+msgid "Granting users access to this course"
+msgstr ""
+
+#: lib/admin_only.inc.php:484
+msgid ""
+"This setting allows you to set how users can access this course. They can "
+"either be given access automatically as soon as the user is created, or you "
+"can manually give them access. You can always manually remove access if you "
+"wish."
+msgstr ""
+
+#: lib/admin_only.inc.php:486
+msgid ""
+"<b>Automatic</b> - All newly created users will be given access this course."
+msgstr ""
+
+#: lib/admin_only.inc.php:487
+msgid "<b>Manual</b> - Users can only access course if you grant them access."
+msgstr ""
+
+#: lib/admin_only.inc.php:498
+msgid "Message - Unit Complete"
+msgstr ""
+
+#: lib/admin_only.inc.php:502
+msgid ""
+"The message shown to a trainee once they've <b>completed a unit</b>, which "
+"is displayed at the bottom of the unit page. HTML is OK."
+msgstr ""
+
+#: lib/admin_only.inc.php:508 lib/admin_only.inc.php:523
+#: lib/admin_only.inc.php:538 lib/admin_only.inc.php:553
+#: lib/admin_only.inc.php:568 lib/admin_only.inc.php:583
+#: lib/admin_only.inc.php:598 lib/admin_only.inc.php:613
+msgid "Please limit message to 500 characters."
+msgstr ""
+
+#: lib/admin_only.inc.php:513
+msgid "Message - Course Complete"
+msgstr ""
+
+#: lib/admin_only.inc.php:517
+msgid ""
+"The message shown to a trainee once they've <b>completed the whole course</"
+"b>, which is displayed at the bottom of the unit page. HTML is OK."
+msgstr ""
+
+#: lib/admin_only.inc.php:528
+msgid "Message - Unit Pending"
+msgstr ""
+
+#: lib/admin_only.inc.php:532
+msgid ""
+"The message shown to a trainee when they've <b>yet to complete a unit</b>. "
+"This message is displayed at the bottom of the unit page, along with a "
+"button that says \"<b>Mark as completed</b>\". HTML is OK."
+msgstr ""
+
+#: lib/admin_only.inc.php:543
+msgid "Message - Access Denied"
+msgstr ""
+
+#: lib/admin_only.inc.php:547
+msgid ""
+"The message shown to a trainee they are <b>not allowed to access a unit</b>, "
+"because they are not allowed to <b>access the whole course</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:558
+msgid "Message - Not Yet Available"
+msgstr ""
+
+#: lib/admin_only.inc.php:562
+msgid ""
+"The message shown to a trainee they are <b>not allowed to access a unit yet</"
+"b>, because they need to complete a previous unit."
+msgstr ""
+
+#: lib/admin_only.inc.php:573
+msgid "Message - Not Logged In"
+msgstr ""
+
+#: lib/admin_only.inc.php:577
+msgid ""
+"The message shown to a trainee they are <b>not logged in</b>, and therefore "
+"cannot access the unit."
+msgstr ""
+
+#: lib/admin_only.inc.php:588
+msgid "Message - Open-Question Submitted - Blocking Mode"
+msgstr ""
+
+#: lib/admin_only.inc.php:592
+msgid ""
+"The message shown to a trainee they have submitted an answer to an <b>open-"
+"ended or upload question</b>, and you need to grade their answer <b>before "
+"they continue</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:603
+msgid "Message - Open-Question Submitted - Non-Blocking Mode"
+msgstr ""
+
+#: lib/admin_only.inc.php:607
+msgid ""
+"The message shown to a trainee they have submitted an answer to an <b>open-"
+"ended or upload question</b>, and you need to grade their answer, but they "
+"can <b>continue anyway</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:626
+msgid "Email From Address"
+msgstr ""
+
+#: lib/admin_only.inc.php:630
+msgid ""
+"The email address that the email notifications should be from.<br/>Depending "
+"on your server's spam-protection set up, this may not appear in the outgoing "
+"emails."
+msgstr ""
+
+#: lib/admin_only.inc.php:635 lib/admin_only.inc.php:664
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: lib/admin_only.inc.php:640
+msgid "Email From Name"
+msgstr ""
+
+#: lib/admin_only.inc.php:644
+msgid ""
+"The name used on the email notifications, which are sent to you and your "
+"trainees. <br/>Depending on your server's spam-protection set up, this may "
+"not appear in the outgoing emails."
+msgstr ""
+
+#: lib/admin_only.inc.php:650
+msgid ""
+"Please specify a from name, up to a maximum of 150 characters, just no "
+"angled brackets (&lt; or &gt;)."
+msgstr ""
+
+#: lib/admin_only.inc.php:655
+msgid "Admin Notify Email Address"
+msgstr ""
+
+#: lib/admin_only.inc.php:659
+msgid "The email address to send admin notifications to."
+msgstr ""
+
+#: lib/admin_only.inc.php:675
+msgid "Module Complete - Notify You?"
+msgstr ""
+
+#: lib/admin_only.inc.php:680
+msgid ""
+"<b>Send me an email</b> - when one of your trainees has completed a module."
+msgstr ""
+
+#: lib/admin_only.inc.php:681
+msgid ""
+"<b>Don't send me an email</b> - when one of your trainees has completed a "
+"module."
+msgstr ""
+
+#: lib/admin_only.inc.php:686
+msgid "Module Complete - Notify User?"
+msgstr ""
+
+#: lib/admin_only.inc.php:691
+msgid "<b>Send Email</b> - to user when module has been completed."
+msgstr ""
+
+#: lib/admin_only.inc.php:692
+msgid "<b>Don't Send Email</b> - to user when module has been completed."
+msgstr ""
+
+#: lib/admin_only.inc.php:697
+msgid "Module Complete - Email Subject"
+msgstr ""
+
+#: lib/admin_only.inc.php:702
+msgid ""
+"The <b>subject line</b> for the email sent to a user when they complete a "
+"<b>module</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:707 lib/admin_only.inc.php:764
+#: lib/admin_only.inc.php:810 lib/admin_only.inc.php:845
+msgid "Please limit the email subject to 300 characters."
+msgstr ""
+
+#: lib/admin_only.inc.php:712
+msgid "Module Complete - Email Body"
+msgstr ""
+
+#: lib/admin_only.inc.php:716
+msgid ""
+"The <b>template body</b> for the email sent to a user when they complete a "
+"<b>module</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:721 lib/admin_only.inc.php:778
+#: lib/admin_only.inc.php:824 lib/admin_only.inc.php:859
+msgid "Please limit the email body to 5000 characters."
+msgstr ""
+
+#: lib/admin_only.inc.php:732
+msgid "Course Complete - Notify You?"
+msgstr ""
+
+#: lib/admin_only.inc.php:737
+msgid ""
+"<b>Send me an email</b> - when one of your trainees has completed the whole "
+"course."
+msgstr ""
+
+#: lib/admin_only.inc.php:738
+msgid ""
+"<b>Don't send me an email</b> - when one of your trainees has completed the "
+"whole course."
+msgstr ""
+
+#: lib/admin_only.inc.php:743
+msgid "Course Complete - Notify User?"
+msgstr ""
+
+#: lib/admin_only.inc.php:748
+msgid "<b>Send Email</b> - to user when the whole course has been completed."
+msgstr ""
+
+#: lib/admin_only.inc.php:749
+msgid ""
+"<b>Don't Send Email</b> - to user when the whole course has been completed."
+msgstr ""
+
+#: lib/admin_only.inc.php:754
+msgid "Course Complete - Email Subject"
+msgstr ""
+
+#: lib/admin_only.inc.php:759
+msgid ""
+"The <b>subject line</b> for the email sent to a user when they complete "
+"<b>the whole course</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:769
+msgid "Course Complete - Email Body"
+msgstr ""
+
+#: lib/admin_only.inc.php:773
+msgid ""
+"The <b>template body</b> for the email sent to a user when they complete "
+"<b>the whole course</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:789
+msgid "Quiz Grade - Notify User?"
+msgstr ""
+
+#: lib/admin_only.inc.php:794
+msgid ""
+"<b>Send Email</b> - to user after a quiz is graded (automatically or by the "
+"instructor)."
+msgstr ""
+
+#: lib/admin_only.inc.php:795
+msgid "<b>Don't Send Email</b> - to user when a quiz is graded."
+msgstr ""
+
+#: lib/admin_only.inc.php:800
+msgid "Quiz Graded - Email Subject"
+msgstr ""
+
+#: lib/admin_only.inc.php:805
+msgid ""
+"The <b>subject line</b> for the email sent to a user when they receive a "
+"<b>grade for a quiz</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:815
+msgid "Quiz Graded - Email Body"
+msgstr ""
+
+#: lib/admin_only.inc.php:819
+msgid ""
+"The <b>template body</b> for the email sent to a user when they receive a "
+"<b>grade for a quiz</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:835
+msgid "Final Summary - Email Subject"
+msgstr ""
+
+#: lib/admin_only.inc.php:840
+msgid ""
+"The <b>subject line</b> for the email sent to a user when they receive their "
+"<b>grade summary at the end of the course</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:850
+msgid "Final Summary - Email Body"
+msgstr ""
+
+#: lib/admin_only.inc.php:854
+msgid ""
+"The <b>template body</b> for the email sent to a user when they receive "
+"their <b>grade summary at the end of the course</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:867
+msgid "Course Complete Certificates"
+msgstr ""
+
+#: lib/admin_only.inc.php:871
+msgid "Enable certificates?"
+msgstr ""
+
+#: lib/admin_only.inc.php:875
+msgid ""
+"<b>Yes</b> - generate a PDF certificate when user completes this course."
+msgstr ""
+
+#: lib/admin_only.inc.php:876
+msgid ""
+"<b>No</b> - don't generate a PDF certificate when user completes this course."
+msgstr ""
+
+#: lib/admin_only.inc.php:889 lib/admin_only.inc.php:2755
+msgid ""
+"Sorry, but unfortunately there were some errors saving the course details. "
+"Please fix the errors and try again."
+msgstr ""
+
+#: lib/admin_only.inc.php:929
+msgid "You need to complete the previous unit first."
+msgstr ""
+
+#: lib/admin_only.inc.php:930
+msgid "Have you completed this unit? Then mark this unit as completed."
+msgstr ""
+
+#: lib/admin_only.inc.php:931
+msgid "You have now completed this unit."
+msgstr ""
+
+#: lib/admin_only.inc.php:933
+msgid "Sorry, but you're not allowed to access this course."
+msgstr ""
+
+#: lib/admin_only.inc.php:934
+msgid "You cannot view this unit as you're not logged in yet."
+msgstr ""
+
+#: lib/admin_only.inc.php:943 lib/admin_only.inc.php:1162
+#, php-format
+msgid "Do you want to return to the <a href=\"%s\">course summary page</a>?"
+msgstr ""
+
+#: lib/admin_only.inc.php:948
+msgid "Course details successfully created. "
+msgstr ""
+
+#: lib/admin_only.inc.php:949
+msgid "Course details successfully updated. "
+msgstr ""
+
+#: lib/admin_only.inc.php:953 lib/admin_only.inc.php:1171
+msgid "Save ALL Details"
+msgstr ""
+
+#: lib/admin_only.inc.php:969
+#, php-format
+msgid ""
+"Currently <b>%d of your quizzes</b> are blocking process based on a "
+"percentage score <b>in this course</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:971
+msgid "You do not currently have any blocking quizzes for this course."
+msgstr ""
+
+#: lib/admin_only.inc.php:977
+msgid "Important Note"
+msgstr ""
+
+#: lib/admin_only.inc.php:978
+msgid ""
+"You have selected <b>All Units Visible</b>. If you create a quiz blocking "
+"progress based on a percentage score, students will have access to the "
+"entire course regardless of quiz score."
+msgstr ""
+
+#: lib/admin_only.inc.php:986
+msgid "General Course Details"
+msgstr ""
+
+#: lib/admin_only.inc.php:987
+msgid "User Access"
+msgstr ""
+
+#: lib/admin_only.inc.php:988
+msgid "User Messages"
+msgstr ""
+
+#: lib/admin_only.inc.php:989
+msgid "Email Address Details"
+msgstr ""
+
+#: lib/admin_only.inc.php:990
+msgid "Email Notifications - Module"
+msgstr ""
+
+#: lib/admin_only.inc.php:991
+msgid "Email Notifications - Course"
+msgstr ""
+
+#: lib/admin_only.inc.php:992
+msgid "Email Notifications - Quiz Grades"
+msgstr ""
+
+#: lib/admin_only.inc.php:993
+msgid "Email Notifications - Final Summary"
+msgstr ""
+
+#: lib/admin_only.inc.php:1019
+msgid "Delete Course?"
+msgstr ""
+
+#: lib/admin_only.inc.php:1024
+msgid ""
+"Are you sure you want to delete the this course and all its modules?\n"
+"\n"
+"This CANNOT be undone!"
+msgstr ""
+
+#: lib/admin_only.inc.php:1025
+msgid "Delete this Course"
+msgstr ""
+
+#: lib/admin_only.inc.php:1028
+msgid ""
+"Units will <b>not</b> be deleted, they will <b>just be disassociated</b> "
+"from this course."
+msgstr ""
+
+#: lib/admin_only.inc.php:1034
+msgid "Email Template Tags"
+msgstr ""
+
+#: lib/admin_only.inc.php:1036
+msgid "All Email Notifications"
+msgstr ""
+
+#: lib/admin_only.inc.php:1039
+msgid "The display name of the user."
+msgstr ""
+
+#: lib/admin_only.inc.php:1041
+msgid "The name of the website."
+msgstr ""
+
+#: lib/admin_only.inc.php:1042
+msgid "The URL of the website."
+msgstr ""
+
+#: lib/admin_only.inc.php:1044
+msgid "The title of the course for the unit that's just been completed."
+msgstr ""
+
+#: lib/admin_only.inc.php:1045
+msgid "The title of the module for the unit that's just been completed."
+msgstr ""
+
+#: lib/admin_only.inc.php:1046
+msgid "The number of the module for the unit that's just been completed."
+msgstr ""
+
+#: lib/admin_only.inc.php:1048
+msgid ""
+"If the course has PDF certificates enabled, this is the link of the PDF "
+"certficate. (If there is no certificate or certificates are not enabled, "
+"this is simply blank)"
+msgstr ""
+
+#: lib/admin_only.inc.php:1052
+msgid "Quiz Email Notifications Only"
+msgstr ""
+
+#: lib/admin_only.inc.php:1054
+msgid "The title of the quiz that has been graded."
+msgstr ""
+
+#: lib/admin_only.inc.php:1055
+msgid "The overall percentage grade for a quiz."
+msgstr ""
+
+#: lib/admin_only.inc.php:1056
+msgid ""
+"Any optional information relating to the result of the quiz, e.g. "
+"information about retaking the quiz."
+msgstr ""
+
+#: lib/admin_only.inc.php:1057
+msgid "The URL of a unit that is associated with the quiz."
+msgstr ""
+
+#: lib/admin_only.inc.php:1060
+msgid "Final Summary Notifications Only"
+msgstr ""
+
+#: lib/admin_only.inc.php:1062
+msgid ""
+"The overall cumulative grade that the user has scored from completing all "
+"quizzes on the course."
+msgstr ""
+
+#: lib/admin_only.inc.php:1063
+msgid "The summary of each quiz, and what the user scored on each."
+msgstr ""
+
+#: lib/admin_only.inc.php:1090
+msgid "Sorry, but that module could not be found."
+msgstr ""
+
+#: lib/admin_only.inc.php:1113
+msgid "Module Title"
+msgstr ""
+
+#: lib/admin_only.inc.php:1117
+msgid ""
+"The title of your module. You <b>do not need to number the modules</b> - "
+"this is done automatically based on the order that they are arranged."
+msgstr ""
+
+#: lib/admin_only.inc.php:1123
+msgid ""
+"Please specify a name for your module, up to a maximum of 150 characters, "
+"just no angled brackets (&lt; or &gt;). Your trainees will be able to see "
+"this module title."
+msgstr ""
+
+#: lib/admin_only.inc.php:1128
+msgid "Associated Course"
+msgstr ""
+
+#: lib/admin_only.inc.php:1132
+msgid "The associated training course that this module belongs to."
+msgstr ""
+
+#: lib/admin_only.inc.php:1133 lib/widget_progress.inc.php:157
+msgid "-- Select a Training Course --"
+msgstr ""
+
+#: lib/admin_only.inc.php:1137
+msgid "Module Description"
+msgstr ""
+
+#: lib/admin_only.inc.php:1141
+msgid ""
+"The description of this module. Your trainees will be able to see this "
+"module description."
+msgstr ""
+
+#: lib/admin_only.inc.php:1146
+msgid "Please limit the description of your module to 5000 characters."
+msgstr ""
+
+#: lib/admin_only.inc.php:1158
+msgid ""
+"Sorry, but unfortunately there were some errors saving the module details. "
+"Please fix the errors and try again."
+msgstr ""
+
+#: lib/admin_only.inc.php:1167
+msgid "Module details successfully created."
+msgstr ""
+
+#: lib/admin_only.inc.php:1168
+msgid "Module details successfully updated."
+msgstr ""
+
+#: lib/admin_only.inc.php:1192
+msgid "Delete Module?"
+msgstr ""
+
+#: lib/admin_only.inc.php:1197
+msgid ""
+"Are you sure you want to delete the this module?\n"
+"\n"
+"This CANNOT be undone!"
+msgstr ""
+
+#: lib/admin_only.inc.php:1198
+msgid "Delete this Module"
+msgstr ""
+
+#: lib/admin_only.inc.php:1201
+msgid ""
+"Units will <b>not</b> be deleted, they will <b>just be disassociated</b> "
+"from this module."
+msgstr ""
+
+#: lib/admin_only.inc.php:1207
+msgid "Units in this Module"
+msgstr ""
+
+#: lib/admin_only.inc.php:1216 lib/admin_only.inc.php:2570
+#: lib/admin_only.inc.php:3793 lib/admin_only.inc.php:3831
+#: lib/shortcodes.inc.php:341 lib/shortcodes.inc.php:354
+#: lib/shortcodes.inc.php:371
+msgid "Unit"
+msgstr ""
+
+#: lib/admin_only.inc.php:1225
+msgid "There are currently no units in this module."
+msgstr ""
+
+#: lib/admin_only.inc.php:1261 lib/admin_only.inc.php:1269
+msgid "Edit Quiz/Survey"
+msgstr ""
+
+#: lib/admin_only.inc.php:1262
+msgid "Sorry, but that quiz/survey could not be found."
+msgstr ""
+
+#: lib/admin_only.inc.php:1284 lib/admin_only.inc.php:2516
+#: lib/admin_only.inc.php:4054
+msgid "Quiz Title"
+msgstr ""
+
+#: lib/admin_only.inc.php:1288
+msgid ""
+"The title of your quiz or survey. Your trainees will be able to see this "
+"quiz title."
+msgstr ""
+
+#: lib/admin_only.inc.php:1294
+msgid ""
+"Please specify a name for your quiz or survey, up to a maximum of 150 "
+"characters, just no angled brackets (&lt; or &gt;)."
+msgstr ""
+
+#: lib/admin_only.inc.php:1299
+msgid "Quiz/Survey Description"
+msgstr ""
+
+#: lib/admin_only.inc.php:1304
+msgid ""
+"(Optional) The description of this quiz. Your trainees won't see this "
+"description. It's just for your reference."
+msgstr ""
+
+#: lib/admin_only.inc.php:1309
+msgid "Please limit the description of your quiz to 5000 characters."
+msgstr ""
+
+#: lib/admin_only.inc.php:1314 lib/admin_only.inc.php:2528
+#: lib/admin_only.inc.php:4056
+msgid "Quiz Type"
+msgstr ""
+
+#: lib/admin_only.inc.php:1319
+msgid "<b>Survey Mode</b> - No correct answers, just collect information."
+msgstr ""
+
+#: lib/admin_only.inc.php:1320
+msgid ""
+"<b>Quiz Mode - Blocking</b> - require trainee to correctly questions before "
+"proceeding. Trainee must achieve <b>minimum pass mark</b> to progress to the "
+"next unit."
+msgstr ""
+
+#: lib/admin_only.inc.php:1321
+msgid ""
+"<b>Quiz Mode - Non-blocking</b> - require trainee to answer a number of "
+"questions before proceeding, but allow them to progress to the next unit "
+"<b>regardless of their pass mark</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:1326 lib/admin_only.inc.php:4068
+msgid "Pass Mark"
+msgstr ""
+
+#: lib/admin_only.inc.php:1330
+msgid "-- Select a pass mark --"
+msgstr ""
+
+#: lib/admin_only.inc.php:1331
+msgid ""
+"The minimum pass mark that your trainees need to achieve to progress on to "
+"the next unit."
+msgstr ""
+
+#: lib/admin_only.inc.php:1335
+msgid "Show Answers?"
+msgstr ""
+
+#: lib/admin_only.inc.php:1340
+msgid ""
+"<b>Show Answers</b> - Show the trainee the correct answers before they "
+"progress."
+msgstr ""
+
+#: lib/admin_only.inc.php:1341
+msgid ""
+"<b>No Answers</b> - Don't show the trainee any answers before they progress."
+msgstr ""
+
+#: lib/admin_only.inc.php:1343
+msgid ""
+"Do you wish your trainee to see the correct answers before proceeding to the "
+"next unit?"
+msgstr ""
+
+#: lib/admin_only.inc.php:1355
+msgid ""
+"Sorry, but unfortunately there were some errors saving the quiz details. "
+"Please fix the errors and try again."
+msgstr ""
+
+#: lib/admin_only.inc.php:1359
+#, php-format
+msgid "Do you want to return to the <a href=\"%s\">quiz summary page</a>?"
+msgstr ""
+
+#: lib/admin_only.inc.php:1364
+msgid "Quiz details successfully created."
+msgstr ""
+
+#: lib/admin_only.inc.php:1365
+msgid "Quiz details successfully updated."
+msgstr ""
+
+#: lib/admin_only.inc.php:1368
+msgid "Save Quiz Settings"
+msgstr ""
+
+#: lib/admin_only.inc.php:1382
+msgid "Quiz Details"
+msgstr ""
+
+#: lib/admin_only.inc.php:1392
+msgid "Quiz Questions"
+msgstr ""
+
+#: lib/admin_only.inc.php:1421 lib/admin_only.inc.php:1428
+msgid "GradeBook"
+msgstr ""
+
+#: lib/admin_only.inc.php:1439 lib/export_data.inc.php:134
+msgid ""
+"There are no quizzes for this course, therefore no grade information to show."
+msgstr ""
+
+#: lib/admin_only.inc.php:1613
+msgid "Learner Details"
+msgstr ""
+
+#: lib/admin_only.inc.php:1621
+msgid "Overall Progress"
+msgstr ""
+
+#: lib/admin_only.inc.php:1628 lib/export_data.inc.php:162
+msgid "Cumulative Grade"
+msgstr ""
+
+#: lib/admin_only.inc.php:1634
+msgid "Grade Sent?"
+msgstr ""
+
+#: lib/admin_only.inc.php:1642
+msgid "Certificate Available?"
+msgstr ""
+
+#: lib/admin_only.inc.php:1668
+msgid "There are currently no quizzes that need a manual grade."
+msgstr ""
+
+#: lib/admin_only.inc.php:1672 lib/admin_only.inc.php:1869
+msgid ""
+"There are currently no users that are eligible to receive their final grade."
+msgstr ""
+
+#: lib/admin_only.inc.php:1676
+msgid "There are currently no users that have completed the course."
+msgstr ""
+
+#: lib/admin_only.inc.php:1680
+msgid "There are currently no learners allocated to this course."
+msgstr ""
+
+#: lib/admin_only.inc.php:1737 lib/export_data.inc.php:222
+msgid "Manual Grade Required"
+msgstr ""
+
+#: lib/admin_only.inc.php:1755 lib/export_data.inc.php:240
+msgid "Not Taken"
+msgstr ""
+
+#: lib/admin_only.inc.php:1772 lib/admin_only.inc.php:1781
+#: lib/admin_only.inc.php:2601 lib/admin_only.inc.php:2705
+#: lib/admin_only.inc.php:2721 lib/admin_only.inc.php:3560
+#: lib/admin_only.inc.php:4195 lib/admin_only.inc.php:5461
+#: lib/export_data.inc.php:254 lib/export_data.inc.php:262
+msgid "Yes"
+msgstr ""
+
+#: lib/admin_only.inc.php:1780
+msgid "Download the certificate for this user."
+msgstr ""
+
+#: lib/admin_only.inc.php:1800
+msgid "Export Gradebook (CSV)"
+msgstr ""
+
+#: lib/admin_only.inc.php:1805
+msgid "Email Final Grades"
+msgstr ""
+
+#: lib/admin_only.inc.php:1813
+#, php-format
+msgid ""
+"Grades will only be emailed to students who have <b>completed the course</b> "
+"and who have <b>not yet received</b> their final grade. \n"
+"\t\t\t   You can see the students who are <a href=\"%s\">eligible to receive "
+"the final grade email</a> here."
+msgstr ""
+
+#: lib/admin_only.inc.php:1824
+#, php-format
+msgid "All (%d)"
+msgstr ""
+
+#: lib/admin_only.inc.php:1825
+#, php-format
+msgid "Completed (%d)"
+msgstr ""
+
+#: lib/admin_only.inc.php:1826
+#, php-format
+msgid "Eligible for Final Grade Email (%d)"
+msgstr ""
+
+#: lib/admin_only.inc.php:1827
+#, php-format
+msgid "Just Quizzes that Need Marking (%d)"
+msgstr ""
+
+#: lib/admin_only.inc.php:1870
+msgid "No emails have been sent."
+msgstr ""
+
+#: lib/admin_only.inc.php:1892
+msgid "Sending final grade emails to"
+msgstr ""
+
+#: lib/admin_only.inc.php:1919
+msgid "complete"
+msgstr ""
+
+#: lib/admin_only.inc.php:1960
+msgid "Quiz"
+msgstr ""
+
+#: lib/admin_only.inc.php:1962
+msgid "Grade"
+msgstr ""
+
+#: lib/admin_only.inc.php:1971 lib/admin_only.inc.php:4836
+#: lib/admin_only.inc.php:5186 lib/export_data.inc.php:253
+msgid "n/a"
+msgstr ""
+
+#: lib/admin_only.inc.php:2002
+msgid "All done."
+msgstr ""
+
+#: lib/admin_only.inc.php:2211
+msgid "Questions were successfully updated."
+msgstr ""
+
+#: lib/admin_only.inc.php:2249
+#, php-format
+msgid ""
+"The trainee will be required to correctly answer at least <b>%d of the %d</"
+"b> following questions (<b>at least %d%%</b>) to progress."
+msgstr ""
+
+#: lib/admin_only.inc.php:2262
+msgid ""
+"This quiz contains questions that need <b>manual grading</b>, and you've "
+"selected '<b>Show Answers</b>' when the user completes this quiz. "
+msgstr ""
+
+#: lib/admin_only.inc.php:2263
+msgid ""
+"Since answers cannot be shown to the user because they are not known at that "
+"stage, <b>answers cannot be shown</b>. To hide this message, select '<b>No "
+"Answers</b>' above."
+msgstr ""
+
+#: lib/admin_only.inc.php:2299
+msgid "Unknown quiz type: "
+msgstr ""
+
+#: lib/admin_only.inc.php:2320
+#, php-format
+msgid ""
+"%d of the questions below have errors. Please make corrections and then save "
+"the changes."
+msgstr ""
+
+#: lib/admin_only.inc.php:2381
+msgid "Add Quiz/Survey Field"
+msgstr ""
+
+#: lib/admin_only.inc.php:2383
+msgid "Add Multiple Choice"
+msgstr ""
+
+#: lib/admin_only.inc.php:2384
+msgid "Add True/False"
+msgstr ""
+
+#: lib/admin_only.inc.php:2385
+msgid "Add Open Ended Question"
+msgstr ""
+
+#: lib/admin_only.inc.php:2386
+msgid "Add File Upload Question"
+msgstr ""
+
+#: lib/admin_only.inc.php:2424
+msgid "Page"
+msgstr ""
+
+#: lib/admin_only.inc.php:2428
+msgid "Quiz &amp; Survey Summary"
+msgstr ""
+
+#: lib/admin_only.inc.php:2453 lib/admin_only.inc.php:2455
+msgid "Search Quizzes"
+msgstr ""
+
+#: lib/admin_only.inc.php:2481
+msgid "Search results for"
+msgstr ""
+
+#: lib/admin_only.inc.php:2486
+msgid "reset"
+msgstr ""
+
+#: lib/admin_only.inc.php:2524
+msgid "Associated Unit"
+msgstr ""
+
+#: lib/admin_only.inc.php:2532
+msgid "Show Answers"
+msgstr ""
+
+#: lib/admin_only.inc.php:2537
+msgid "Total Questions"
+msgstr ""
+
+#: lib/admin_only.inc.php:2572
+msgid "View "
+msgstr ""
+
+#: lib/admin_only.inc.php:2588 lib/admin_only.inc.php:4845
+msgid "Course"
+msgstr ""
+
+#: lib/admin_only.inc.php:2590
+msgid "Edit "
+msgstr ""
+
+#: lib/admin_only.inc.php:2607
+#, php-format
+msgid "Min. Pass Mark of %d%%"
+msgstr ""
+
+#: lib/admin_only.inc.php:2622
+msgid "Edit"
+msgstr ""
+
+#: lib/admin_only.inc.php:2626
+msgid "Are you sure you wish to delete this quiz?"
+msgstr ""
+
+#: lib/admin_only.inc.php:2627 lib/class_quiz_base.inc.php:81
+msgid "Delete"
+msgstr ""
+
+#: lib/admin_only.inc.php:2643
+msgid "There are currently no quizzes to show. Why not create one?"
+msgstr ""
+
+#: lib/admin_only.inc.php:2658
+msgid "Training Courses - Settings"
+msgstr ""
+
+#: lib/admin_only.inc.php:2663
+msgid "Upgrading WP Courseware Tables..."
+msgstr ""
+
+#: lib/admin_only.inc.php:2669
+#, php-format
+msgid "%s tables have successfully been upgraded."
+msgstr ""
+
+#: lib/admin_only.inc.php:2677 lib/admin_only.inc.php:2819
+msgid "Licence Key Settings"
+msgstr ""
+
+#: lib/admin_only.inc.php:2681 lib/admin_only.inc.php:2823
+msgid "Licence Key"
+msgstr ""
+
+#: lib/admin_only.inc.php:2683 lib/admin_only.inc.php:2825
+msgid "Your licence key for the WP Courseware plugin."
+msgstr ""
+
+#: lib/admin_only.inc.php:2689 lib/admin_only.inc.php:2831
+msgid ""
+"Please enter your 32 character licence key, which contains only letters and "
+"numbers."
+msgstr ""
+
+#: lib/admin_only.inc.php:2696
+msgid "Style &amp; Design Settings"
+msgstr ""
+
+#: lib/admin_only.inc.php:2701
+msgid "Use Default CSS?"
+msgstr ""
+
+#: lib/admin_only.inc.php:2705
+msgid "Use default stylesheet for the frontend of the website."
+msgstr ""
+
+#: lib/admin_only.inc.php:2706 lib/admin_only.inc.php:2722
+#: lib/admin_only.inc.php:4195 lib/admin_only.inc.php:5462
+#: lib/export_data.inc.php:254 lib/export_data.inc.php:259
+msgid "No"
+msgstr ""
+
+#: lib/admin_only.inc.php:2706
+msgid ""
+"Don't use the default stylesheet for the frontend of the website (you'll "
+"write your own CSS)"
+msgstr ""
+
+#: lib/admin_only.inc.php:2708
+msgid ""
+"If you want to style your training course material yourself, you can disable "
+"the default stylesheet. If in doubt, select <b>Yes</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:2713
+msgid "Powered By Link"
+msgstr ""
+
+#: lib/admin_only.inc.php:2717
+msgid "Show Powered By Link?"
+msgstr ""
+
+#: lib/admin_only.inc.php:2721
+msgid "Show the <em>'Powered By WP Courseware'</em> link."
+msgstr ""
+
+#: lib/admin_only.inc.php:2722
+msgid "Don't show any powered-by links."
+msgstr ""
+
+#: lib/admin_only.inc.php:2724
+msgid ""
+"Do you want to show a 'Powered By WP Courseware' link at the bottom of "
+"course outlines?"
+msgstr ""
+
+#: lib/admin_only.inc.php:2728
+msgid "Your Clickbank ID"
+msgstr ""
+
+#: lib/admin_only.inc.php:2730
+msgid ""
+"(Optional) Earn some money by providing your Your Clickbank Affiliate ID, "
+"which will turn the <b>Powered By WP Courseware</b> into an affiliate link "
+"that earns you a percentage of every sale!"
+msgstr ""
+
+#: lib/admin_only.inc.php:2736
+msgid ""
+"Please enter your Clickbank Affiliate ID, which contains only letters, "
+"numbers, hypens or underscores."
+msgstr ""
+
+#: lib/admin_only.inc.php:2750 lib/admin_only.inc.php:5024
+#: lib/admin_only.inc.php:5510
+msgid "Save ALL Settings"
+msgstr ""
+
+#: lib/admin_only.inc.php:2753 lib/admin_only.inc.php:5512
+#: wplib/utils_settings.inc.php:60
+msgid "Settings successfully saved."
+msgstr ""
+
+#: lib/admin_only.inc.php:2754 lib/admin_only.inc.php:5513
+#: wplib/utils_settings.inc.php:61
+msgid "There was a problem saving the settings."
+msgstr ""
+
+#: lib/admin_only.inc.php:2765
+msgid "Upgrade Tables"
+msgstr ""
+
+#: lib/admin_only.inc.php:2767
+msgid ""
+"If you're getting any errors with WP Courseware relating to database tables "
+"when you've updated, you can force an upgrade of the database tables using "
+"the button below."
+msgstr ""
+
+#: lib/admin_only.inc.php:2771
+msgid "Force Table Upgrade"
+msgstr ""
+
+#: lib/admin_only.inc.php:2864
+msgid "Convert Page/Post to Course Unit"
+msgstr ""
+
+#: lib/admin_only.inc.php:2868
+msgid "Sorry, but you are not allowed to edit this page/post."
+msgstr ""
+
+#: lib/admin_only.inc.php:2877
+msgid "Sorry, but the specified page/post does not appear to exist."
+msgstr ""
+
+#: lib/admin_only.inc.php:2889
+#, php-format
+msgid "Are you sure you wish to convert the <em>%s</em> to a course unit?"
+msgstr ""
+
+#: lib/admin_only.inc.php:2896
+msgid "Yes, convert it"
+msgstr ""
+
+#: lib/admin_only.inc.php:2903
+msgid "No, don't convert it"
+msgstr ""
+
+#: lib/admin_only.inc.php:2930
+msgid "Conversion to a course unit cancelled."
+msgstr ""
+
+#: lib/admin_only.inc.php:2942
+#, php-format
+msgid ""
+"The page/post was successfully converted to a course unit. You can <a href="
+"\"%s\">now edit the course unit</a>."
+msgstr ""
+
+#: lib/admin_only.inc.php:2948
+msgid ""
+"Unfortunately, there was an error trying to convert the page/post to a "
+"course unit. Perhaps you could try again?"
+msgstr ""
+
+#: lib/admin_only.inc.php:2987 lib/admin_only.inc.php:2995
+#: lib/admin_only.inc.php:3003 lib/admin_only.inc.php:3026
+msgid "Export Course"
+msgstr ""
+
+#: lib/admin_only.inc.php:2989 lib/admin_only.inc.php:2997
+#: lib/admin_only.inc.php:3005 lib/admin_only.inc.php:3093
+msgid "Import Course"
+msgstr ""
+
+#: lib/admin_only.inc.php:2991 lib/admin_only.inc.php:2999
+#: lib/admin_only.inc.php:3007 lib/admin_only.inc.php:3149
+msgid "Import Users"
+msgstr ""
+
+#: lib/admin_only.inc.php:3022
+msgid "Export Training Course"
+msgstr ""
+
+#: lib/admin_only.inc.php:3029 lib/admin_only.inc.php:3034
+msgid "Course to Export"
+msgstr ""
+
+#: lib/admin_only.inc.php:3030
+msgid "--- Select a course to export ---"
+msgstr ""
+
+#: lib/admin_only.inc.php:3036
+msgid "<b>All</b> - The whole course, modules and units."
+msgstr ""
+
+#: lib/admin_only.inc.php:3037
+msgid ""
+"<b>Just the Course</b> - Just the course title, description and settings (no "
+"units or modules)."
+msgstr ""
+
+#: lib/admin_only.inc.php:3038
+msgid ""
+"<b>Course and Modules</b> - Just the course settings and module settings (no "
+"units)."
+msgstr ""
+
+#: lib/admin_only.inc.php:3058
+msgid ""
+"Sorry, but unfortunately there were some errors. Please fix the errors and "
+"try again."
+msgstr ""
+
+#: lib/admin_only.inc.php:3067
+msgid ""
+"When you export a course, you'll get an <b>XML file</b>, which you can then "
+"<b>import into another WordPress website</b> that's running <b>WP "
+"Courseware</b>.<br/> \n"
+"\t    When you export the course units with a course, just the <b>HTML to "
+"render images and video</b> will be copied, but the <b>actual images and "
+"video files will not be exported</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:3083
+msgid "Import Training Course"
+msgstr ""
+
+#: lib/admin_only.inc.php:3096
+msgid "Course Import XML File"
+msgstr ""
+
+#: lib/admin_only.inc.php:3112
+msgid "Unfortunately, there were some errors trying to import the CSV file."
+msgstr ""
+
+#: lib/admin_only.inc.php:3123
+msgid ""
+"You can import any export file created by <b>WP Courseware</b> using the "
+"form below."
+msgstr ""
+
+#: lib/admin_only.inc.php:3123 lib/admin_only.inc.php:3179
+#, php-format
+msgid "The <b>maximum upload file size</b> for your server is <b>%d MB</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:3140
+msgid "Import Users from CSV File"
+msgstr ""
+
+#: lib/admin_only.inc.php:3152
+msgid "User Import CSV File"
+msgstr ""
+
+#: lib/admin_only.inc.php:3168 lib/admin_only.inc.php:3316
+msgid "Unfortunately, there were some errors trying to import the XML file."
+msgstr ""
+
+#: lib/admin_only.inc.php:3179
+msgid "You can import a CSV file of users using the form below."
+msgstr ""
+
+#: lib/admin_only.inc.php:3186
+msgid "Some tips for importing users via a CSV file:"
+msgstr ""
+
+#: lib/admin_only.inc.php:3188
+msgid ""
+"If a user email address already exists, then just the courses are updated "
+"for that user."
+msgstr ""
+
+#: lib/admin_only.inc.php:3189
+msgid ""
+"User names are generated from the first and last name information. If a user "
+"name already exists, then a unique username is generated."
+msgstr ""
+
+#: lib/admin_only.inc.php:3190
+msgid ""
+"To add a user to many courses, just separate those course IDs with a comma "
+"in the <code>courses_to_add_to</code> column."
+msgstr ""
+
+#: lib/admin_only.inc.php:3191
+msgid ""
+"If a user is created, any courses set to be automatically assigned will be "
+"done first, and then the courses added in the <code>courses_to_add_to</code> "
+"column."
+msgstr ""
+
+#: lib/admin_only.inc.php:3192
+#, php-format
+msgid "You can download an <a href=\"%s\">example CSV file here</a>."
+msgstr ""
+
+#: lib/admin_only.inc.php:3193
+#, php-format
+msgid ""
+"The IDs for the training courses can be found on the <a href=\"%s\">course "
+"summary page</a>."
+msgstr ""
+
+#: lib/admin_only.inc.php:3238
+#, php-format
+msgid "The quiz '%s' was successfully deleted."
+msgstr ""
+
+#: lib/admin_only.inc.php:3276
+msgid "---- No Page Selected ----"
+msgstr ""
+
+#: lib/admin_only.inc.php:3300 lib/admin_only.inc.php:3353
+msgid "Unfortunately, you tried to upload a file that isn't XML."
+msgstr ""
+
+#: lib/admin_only.inc.php:3322
+msgid "The course was successfully imported."
+msgstr ""
+
+#: lib/admin_only.inc.php:3323
+#, php-format
+msgid ""
+"You can now <a href=\"%s\">edit the Course Settings</a> or <a href=\"%s"
+"\">edit the Unit &amp; Module Ordering</a>."
+msgstr ""
+
+#: lib/admin_only.inc.php:3339 lib/admin_only.inc.php:3588
+msgid "Unfortunately the file you've uploaded is too large for the system."
+msgstr ""
+
+#: lib/admin_only.inc.php:3344 lib/admin_only.inc.php:3593
+msgid ""
+"For some reason, the file you've uploaded didn't transfer correctly to the "
+"server. Please try again."
+msgstr ""
+
+#: lib/admin_only.inc.php:3349 lib/admin_only.inc.php:3598
+msgid ""
+"There appears to be an issue with your server, as the import file could not "
+"be stored in the temporary directory."
+msgstr ""
+
+#: lib/admin_only.inc.php:3368
+msgid "Import started..."
+msgstr ""
+
+#: lib/admin_only.inc.php:3389 lib/admin_only.inc.php:3602
+msgid "Unfortunately, you tried to upload a file that isn't a CSV file."
+msgstr ""
+
+#: lib/admin_only.inc.php:3423
+msgid "No data was found in the CSV file, so there is nothing to do."
+msgstr ""
+
+#: lib/admin_only.inc.php:3452
+msgid "Cannot create a user with no name."
+msgstr ""
+
+#: lib/admin_only.inc.php:3466
+msgid "Email address already exists."
+msgstr ""
+
+#: lib/admin_only.inc.php:3532
+msgid "Import complete!"
+msgstr ""
+
+#: lib/admin_only.inc.php:3532
+#, php-format
+msgid ""
+"%d users were registered, %d users were updated, and %d user entries could "
+"not be processed."
+msgstr ""
+
+#: lib/admin_only.inc.php:3541
+#, php-format
+msgid "The following %d users were not imported:"
+msgstr ""
+
+#: lib/admin_only.inc.php:3546
+msgid "Line #"
+msgstr ""
+
+#: lib/admin_only.inc.php:3547
+msgid "User Email Address"
+msgstr ""
+
+#: lib/admin_only.inc.php:3548
+msgid "Reason why not imported"
+msgstr ""
+
+#: lib/admin_only.inc.php:3549
+msgid "Updated Anyway?"
+msgstr ""
+
+#: lib/admin_only.inc.php:3560
+msgid "No, Aborted"
+msgstr ""
+
+#: lib/admin_only.inc.php:3576
+msgid ""
+"Unfortunately, the temporary CSV file could not be opened for processing."
+msgstr ""
+
+#: lib/admin_only.inc.php:3619
+msgid "Update User Course Access Permissions"
+msgstr ""
+
+#: lib/admin_only.inc.php:3627 lib/admin_only.inc.php:3761
+msgid "Sorry, but that user could not be found."
+msgstr ""
+
+#: lib/admin_only.inc.php:3632
+#, php-format
+msgid ""
+"<p>Here you can change which courses the user <b>%s</b> (Username: <b>%s</"
+"b>) can access.</p>"
+msgstr ""
+
+#: lib/admin_only.inc.php:3643
+msgid "Sorry, but that user could not be found. The changes were not saved."
+msgstr ""
+
+#: lib/admin_only.inc.php:3663
+#, php-format
+msgid "The courses for user <em>%s</em> have now been updated."
+msgstr ""
+
+#: lib/admin_only.inc.php:3684
+msgid "Allowed Access"
+msgstr ""
+
+#: lib/admin_only.inc.php:3729 lib/class_members.inc.php:140
+msgid "Save Changes"
+msgstr ""
+
+#: lib/admin_only.inc.php:3753
+msgid "Detailed User Progress Report"
+msgstr ""
+
+#: lib/admin_only.inc.php:3766
+#, php-format
+msgid ""
+"<p>Here you can see how well <b>%s</b> (Username: <b>%s</b>) is doing with "
+"your training courses.</p>"
+msgstr ""
+
+#: lib/admin_only.inc.php:3794 lib/admin_only.inc.php:3837
+#: lib/admin_only.inc.php:3855
+msgid "Completed"
+msgstr ""
+
+#: lib/admin_only.inc.php:3795
+msgid "Quiz Name"
+msgstr ""
+
+#: lib/admin_only.inc.php:3796
+msgid "Quiz Status"
+msgstr ""
+
+#: lib/admin_only.inc.php:3862
+msgid "View Survey Details"
+msgstr ""
+
+#: lib/admin_only.inc.php:3868 lib/admin_only.inc.php:3896
+msgid "Pending"
+msgstr ""
+
+#: lib/admin_only.inc.php:3888
+msgid "View Quiz Details"
+msgstr ""
+
+#: lib/admin_only.inc.php:3930
+#, php-format
+msgid "User <b>%s</b> is not currently allowed to access any training courses."
+msgstr ""
+
+#: lib/admin_only.inc.php:3953
+msgid "Detailed User Quiz/Survey Results"
+msgstr ""
+
+#: lib/admin_only.inc.php:3967
+msgid "&laquo; Return to User Summary"
+msgstr ""
+
+#: lib/admin_only.inc.php:3976
+#, php-format
+msgid "&laquo; Return to <b>%s's</b> Progress Report"
+msgstr ""
+
+#: lib/admin_only.inc.php:3991
+msgid "Sorry, but no results could be found."
+msgstr ""
+
+#: lib/admin_only.inc.php:4003
+msgid "&laquo; Return to Gradebook"
+msgstr ""
+
+#: lib/admin_only.inc.php:4031
+msgid "The user has been sent an email with their grade for this course."
+msgstr ""
+
+#: lib/admin_only.inc.php:4037
+msgid "Quiz/Survey Overview"
+msgstr ""
+
+#: lib/admin_only.inc.php:4055
+msgid "Quiz Description"
+msgstr ""
+
+#: lib/admin_only.inc.php:4057
+msgid "No. of Questions"
+msgstr ""
+
+#: lib/admin_only.inc.php:4059
+msgid "Completed Date"
+msgstr ""
+
+#: lib/admin_only.inc.php:4060
+msgid "About"
+msgstr ""
+
+#: lib/admin_only.inc.php:4060
+msgid "ago"
+msgstr ""
+
+#: lib/admin_only.inc.php:4073 lib/admin_only.inc.php:4078
+msgid "No. of Question to Grade"
+msgstr ""
+
+#: lib/admin_only.inc.php:4074 lib/admin_only.inc.php:4090
+msgid "Overall Grade"
+msgstr ""
+
+#: lib/admin_only.inc.php:4074
+msgid "Awaiting Final Grading"
+msgstr ""
+
+#: lib/admin_only.inc.php:4084
+msgid "Passed"
+msgstr ""
+
+#: lib/admin_only.inc.php:4087
+msgid "Failed"
+msgstr ""
+
+#: lib/admin_only.inc.php:4125 lib/class_quiz_base.inc.php:131
+#: lib/class_quiz_multi.inc.php:57 lib/class_quiz_open_entry.inc.php:54
+#: lib/class_quiz_truefalse.inc.php:54 lib/class_quiz_upload.inc.php:54
+#: lib/frontend_only.inc.php:692
+msgid "Question"
+msgstr ""
+
+#: lib/admin_only.inc.php:4152
+msgid "Open"
+msgstr ""
+
+#: lib/admin_only.inc.php:4154
+msgid "File"
+msgstr ""
+
+#: lib/admin_only.inc.php:4168
+msgid "Type"
+msgstr ""
+
+#: lib/admin_only.inc.php:4173
+msgid "Their Answer"
+msgstr ""
+
+#: lib/admin_only.inc.php:4188 lib/frontend_only.inc.php:702
+msgid "Correct Answer"
+msgstr ""
+
+#: lib/admin_only.inc.php:4198
+msgid "Did they get it right?"
+msgstr ""
+
+#: lib/admin_only.inc.php:4219
+msgid "Click to edit"
+msgstr ""
+
+#: lib/admin_only.inc.php:4226
+msgid "-- Select a grade --"
+msgstr ""
+
+#: lib/admin_only.inc.php:4233
+msgid "Their Grade"
+msgstr ""
+
+#: lib/admin_only.inc.php:4263
+msgid "Save Changes to Grades"
+msgstr ""
+
+#: lib/admin_only.inc.php:4264
+msgid "Grades have been changed. Ready to save changes?"
+msgstr ""
+
+#: lib/admin_only.inc.php:4320
+msgid "Grades have been successfully updated for this user."
+msgstr ""
+
+#: lib/admin_only.inc.php:4340
+msgid "You have passed the quiz."
+msgstr ""
+
+#: lib/admin_only.inc.php:4343
+msgid ""
+"The user has <b>PASSED</b> this quiz, and the associated unit has been "
+"marked as complete."
+msgstr ""
+
+#: lib/admin_only.inc.php:4367
+msgid "This quiz has questions that need grading."
+msgstr ""
+
+#: lib/admin_only.inc.php:4382
+msgid ""
+"You have allowed the user to <b>progress anyway</b>, despite failing the "
+"quiz."
+msgstr ""
+
+#: lib/admin_only.inc.php:4388
+msgid "You have requested that the user <b>re-takes the quiz</b>."
+msgstr ""
+
+#: lib/admin_only.inc.php:4400
+msgid ""
+"Since this is a <b>blocking quiz</b>, and the user has <b>failed</b>, what "
+"would you like to do?"
+msgstr ""
+
+#: lib/admin_only.inc.php:4419
+msgid "Allow the user to continue anyway."
+msgstr ""
+
+#: lib/admin_only.inc.php:4420
+msgid " (User is emailed saying they can continue)"
+msgstr ""
+
+#: lib/admin_only.inc.php:4421
+msgid "Require the user to re-take the quiz."
+msgstr ""
+
+#: lib/admin_only.inc.php:4422
+msgid " (User is emailed saying they need to re-take the quiz)"
+msgstr ""
+
+#: lib/admin_only.inc.php:4423
+msgid "Custom Message:"
+msgstr ""
+
+#: lib/admin_only.inc.php:4424
+msgid ""
+"Custom message for the user that's sent to the user when asking them to "
+"retake the quiz."
+msgstr ""
+
+#: lib/admin_only.inc.php:4425
+msgid "Save Preference"
+msgstr ""
+
+#: lib/admin_only.inc.php:4499
+msgid ""
+"Since you didn't pass the quiz, the instructor has asked that you re-take "
+"this quiz."
+msgstr ""
+
+#: lib/admin_only.inc.php:4507
+msgid ""
+"Although you didn't pass the quiz, the instructor is allowing you to "
+"continue on to the next unit."
+msgstr ""
+
+#: lib/admin_only.inc.php:4549
+#, php-format
+msgid "Successfully deleted module \"<em>%s</em>\"."
+msgstr ""
+
+#: lib/admin_only.inc.php:4562
+#, php-format
+msgid "Successfully deleted training course \"<em>%s</em>\"."
+msgstr ""
+
+#: lib/admin_only.inc.php:4798
+msgid "Associated Module &amp; Course"
+msgstr ""
+
+#: lib/admin_only.inc.php:4799
+msgid "Associated Quiz"
+msgstr ""
+
+#: lib/admin_only.inc.php:4911
+msgid "Details"
+msgstr ""
+
+#: lib/admin_only.inc.php:4914
+msgid "Training Course Progress"
+msgstr ""
+
+#: lib/admin_only.inc.php:4970
+msgid "No associated courses"
+msgstr ""
+
+#: lib/admin_only.inc.php:4980
+msgid "View Detailed Progress"
+msgstr ""
+
+#: lib/admin_only.inc.php:4987
+msgid "Update Course Access Permissions"
+msgstr ""
+
+#: lib/admin_only.inc.php:5052
+msgid "Convert Post to Course Unit"
+msgstr ""
+
+#: lib/admin_only.inc.php:5060
+msgid "Convert Page to Course Unit"
+msgstr ""
+
+#: lib/admin_only.inc.php:5078
+#, php-format
+msgid "Click to <a href=\"%s\">convert this <b>%s</b> to a Course Unit</a>."
+msgstr ""
+
+#: lib/admin_only.inc.php:5190
+msgid "True/False"
+msgstr ""
+
+#: lib/admin_only.inc.php:5194
+msgid "Multiple Choice"
+msgstr ""
+
+#: lib/admin_only.inc.php:5198
+msgid "File Upload"
+msgstr ""
+
+#: lib/admin_only.inc.php:5202
+msgid "Open Ended"
+msgstr ""
+
+#: lib/admin_only.inc.php:5406
+msgid "Training Courses - Certificate Settings"
+msgstr ""
+
+#: lib/admin_only.inc.php:5412
+msgid "Certificate Settings"
+msgstr ""
+
+#: lib/admin_only.inc.php:5416
+msgid "Signature Type"
+msgstr ""
+
+#: lib/admin_only.inc.php:5421
+msgid "Text"
+msgstr ""
+
+#: lib/admin_only.inc.php:5421
+msgid "Just use text for the signature."
+msgstr ""
+
+#: lib/admin_only.inc.php:5422
+msgid "Image File"
+msgstr ""
+
+#: lib/admin_only.inc.php:5422
+msgid "Use an image for the signature."
+msgstr ""
+
+#: lib/admin_only.inc.php:5427
+msgid "Name to use for signature"
+msgstr ""
+
+#: lib/admin_only.inc.php:5430
+msgid "The name to use for the signature area."
+msgstr ""
+
+#: lib/admin_only.inc.php:5436
+msgid "Please enter the name to use for the signature area."
+msgstr ""
+
+#: lib/admin_only.inc.php:5441
+msgid "Your Signature Image"
+msgstr ""
+
+#: lib/admin_only.inc.php:5444
+msgid ""
+"The URL of your signature image. Using a transparent image is recommended."
+msgstr ""
+
+#: lib/admin_only.inc.php:5445
+#, php-format
+msgid ""
+"The image must be <b>%d pixels wide, and %d pixels high</b> to render "
+"correctly. "
+msgstr ""
+
+#: lib/admin_only.inc.php:5450
+msgid "Please enter the URL of your signature image."
+msgstr ""
+
+#: lib/admin_only.inc.php:5452 lib/admin_only.inc.php:5478
+#: lib/admin_only.inc.php:5504
+msgid "Upload Image"
+msgstr ""
+
+#: lib/admin_only.inc.php:5456
+msgid "Show your logo?"
+msgstr ""
+
+#: lib/admin_only.inc.php:5461
+msgid "Use your logo on the certificate."
+msgstr ""
+
+#: lib/admin_only.inc.php:5462
+msgid "Don't show a logo on the certificate."
+msgstr ""
+
+#: lib/admin_only.inc.php:5467
+msgid "Your Logo Image"
+msgstr ""
+
+#: lib/admin_only.inc.php:5470
+msgid "The URL of your logo image. Using a transparent image is recommended."
+msgstr ""
+
+#: lib/admin_only.inc.php:5471
+#, php-format
+msgid ""
+"The image must be <b>%d pixels wide, and %d pixels</b> high to render "
+"correctly. "
+msgstr ""
+
+#: lib/admin_only.inc.php:5476
+msgid "Please enter the URL of your logo image."
+msgstr ""
+
+#: lib/admin_only.inc.php:5482
+msgid "Certificate Background"
+msgstr ""
+
+#: lib/admin_only.inc.php:5487
+msgid "Built-in"
+msgstr ""
+
+#: lib/admin_only.inc.php:5487
+msgid "Use the built-in certificate background."
+msgstr ""
+
+#: lib/admin_only.inc.php:5488
+msgid "Custom"
+msgstr ""
+
+#: lib/admin_only.inc.php:5488
+msgid "Use your own certificate background."
+msgstr ""
+
+#: lib/admin_only.inc.php:5493
+msgid "Custom Background Image"
+msgstr ""
+
+#: lib/admin_only.inc.php:5496
+msgid "The URL of your background image."
+msgstr ""
+
+#: lib/admin_only.inc.php:5497
+#, php-format
+msgid ""
+"The background image must be <b>%d pixels wide, and %d pixels</b> high at "
+"<b>72 dpi</b> to render correctly. "
+msgstr ""
+
+#: lib/admin_only.inc.php:5502
+msgid "Please enter the URL of your certificate background image."
+msgstr ""
+
+#: lib/admin_only.inc.php:5524 lib/admin_only.inc.php:5526
+msgid "Preview Certificate"
+msgstr ""
+
+#: lib/admin_only.inc.php:5525
+msgid ""
+"After saving the settings, you can preview the certificate using the button "
+"below. The preview opens in a new window."
+msgstr ""
+
+#: lib/admin_only.inc.php:5548
+#, php-format
+msgid "Please fill in the required '%s' field."
+msgstr ""
+
+#: lib/admin_only.inc.php:5549
+#, php-format
+msgid "There's a problem with value for '%s'."
+msgstr ""
+
+#: lib/admin_only.inc.php:5550
+msgid "required"
+msgstr ""
+
+#: lib/ajax_admin.inc.php:16 lib/ajax_frontend.inc.php:15
+#: lib/ajax_frontend.inc.php:102
+msgid "Security check failed!"
+msgstr ""
+
+#: lib/class_import.inc.php:29
+#, php-format
+msgid "Line %d, Column %d, Error: %s"
+msgstr ""
+
+#: lib/class_import.inc.php:101
+msgid "Sorry, you're not allowed to import courses into WordPress."
+msgstr ""
+
+#: lib/class_import.inc.php:112
+msgid "There was no course data to import."
+msgstr ""
+
+#: lib/class_import.inc.php:122
+msgid "Could not create course in database."
+msgstr ""
+
+#: lib/class_import.inc.php:153
+msgid "There was a problem inserting the module into the database."
+msgstr ""
+
+#: lib/class_import.inc.php:201
+#, php-format
+msgid "Could not create course unit \"%s\". So this was skipped."
+msgstr ""
+
+#: lib/class_import.inc.php:224
+msgid "There was a problem adding unit meta data into the database."
+msgstr ""
+
+#: lib/class_import.inc.php:297
+msgid " (Imported)"
+msgstr ""
+
+#: lib/class_members.inc.php:74
+msgid "&amp; Automatic Course Access Settings"
+msgstr ""
+
+#: lib/class_members.inc.php:97
+msgid "That membership level does not appear to exist."
+msgstr ""
+
+#: lib/class_members.inc.php:124
+#, php-format
+msgid "Editing permissions for <b>%s</b> level with <b>%s</b>:"
+msgstr ""
+
+#: lib/class_members.inc.php:143
+msgid "Courses user can access at this level"
+msgstr ""
+
+#: lib/class_members.inc.php:181
+msgid "Level and course permissions successfully updated."
+msgstr ""
+
+#: lib/class_members.inc.php:182
+#, php-format
+msgid ""
+"Want to return to the <a href=\"%s\">Course Access Settings summary</a>?"
+msgstr ""
+
+#: lib/class_members.inc.php:200
+msgid "&laquo; Return to Course Access Settings summary"
+msgstr ""
+
+#: lib/class_members.inc.php:227
+msgid "Level ID"
+msgstr ""
+
+#: lib/class_members.inc.php:230
+msgid "Level Name"
+msgstr ""
+
+#: lib/class_members.inc.php:233
+msgid "Users at this level can access:"
+msgstr ""
+
+#: lib/class_members.inc.php:274
+msgid "There are no courses yet."
+msgstr ""
+
+#: lib/class_members.inc.php:281
+msgid "Edit Course Access Settings"
+msgstr ""
+
+#: lib/class_members.inc.php:293
+#, php-format
+msgid "No membership levels were found for %s."
+msgstr ""
+
+#: lib/class_members.inc.php:386
+msgid "extension"
+msgstr ""
+
+#: lib/class_members.inc.php:387
+#, php-format
+msgid "The %s plugin has not been detected. Is it installed and activated?"
+msgstr ""
+
+#: lib/class_members.inc.php:405
+msgid "has not been detected. Is it installed and activated?"
+msgstr ""
+
+#: lib/class_members.inc.php:423
+msgid "New users given access based on"
+msgstr ""
+
+#: lib/class_members.inc.php:426
+msgid "level"
+msgstr ""
+
+#: lib/class_quiz_base.inc.php:80
+msgid "Are you sure you wish to delete this question?"
+msgstr ""
+
+#: lib/class_quiz_base.inc.php:82
+msgid "Move"
+msgstr ""
+
+#: lib/class_quiz_base.inc.php:134
+msgid "Incorrect"
+msgstr ""
+
+#: lib/class_quiz_multi.inc.php:73
+msgid "Correct<br/>Answer?"
+msgstr ""
+
+#: lib/class_quiz_multi.inc.php:105
+msgid "Answer"
+msgstr ""
+
+#: lib/class_quiz_multi.inc.php:122
+msgid "Add a new answer..."
+msgstr ""
+
+#: lib/class_quiz_multi.inc.php:123
+msgid "Remove this answer..."
+msgstr ""
+
+#: lib/class_quiz_open_entry.inc.php:74
+msgid "Size of box for user to type answer?"
+msgstr ""
+
+#: lib/class_quiz_open_entry.inc.php:100
+msgid "Optional hint to guide user on expected answer or length of answer."
+msgstr ""
+
+#: lib/class_quiz_open_entry.inc.php:173
+msgid "<b>Single Line</b> of Text"
+msgstr ""
+
+#: lib/class_quiz_open_entry.inc.php:174
+msgid "<b>Small</b> Text Box - about 4 Lines of Text"
+msgstr ""
+
+#: lib/class_quiz_open_entry.inc.php:175
+msgid "<b>Medium</b> Text Box - about 8 Lines of Text"
+msgstr ""
+
+#: lib/class_quiz_open_entry.inc.php:176
+msgid "<b>Large</b> Text Box - about 15 Lines of Text"
+msgstr ""
+
+#: lib/class_quiz_truefalse.inc.php:77
+msgid "Correct Answer?"
+msgstr ""
+
+#: lib/class_quiz_truefalse.inc.php:83 lib/class_quiz_truefalse.inc.php:111
+msgid "True"
+msgstr ""
+
+#: lib/class_quiz_truefalse.inc.php:88 lib/class_quiz_truefalse.inc.php:112
+msgid "False"
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:74
+msgid "Permitted file extensions?"
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:80
+msgid "Just list the permitted extensions without the dot."
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:81
+msgid "e.g. \"pdf, xls, mp3\""
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:90
+msgid "Optional hint to guide user on what to upload."
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:129
+msgid "Allowed file types: "
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:203
+msgid "Error. An unknown file upload error occurred."
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:209
+#, php-format
+msgid "Error. The uploaded file exceeds the maximum file upload size (%s)."
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:213
+msgid "Error. The uploaded file was only partially uploaded."
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:217
+msgid "Error. No file was uploaded."
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:221
+msgid "Error. The temporary upload directory does not exist."
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:225
+msgid "Error. Could not write the uploaded file to disk."
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:229
+msgid "Error. An extension stopped the file upload."
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:246
+#, php-format
+msgid "Error. Extension of file does not match allowed file types of %s."
+msgstr ""
+
+#: lib/class_quiz_upload.inc.php:261
+msgid "Error. Could not move file to your training directory."
+msgstr ""
+
+#: lib/common.inc.php:288
+msgid "Survey"
+msgstr ""
+
+#: lib/common.inc.php:292
+msgid "Quiz - Blocking"
+msgstr ""
+
+#: lib/common.inc.php:296
+msgid "Quiz - Non-Blocking"
+msgstr ""
+
+#: lib/common.inc.php:846
+msgid "Module Complete Notification - {USER_NAME} - Module {MODULE_NUMBER}"
+msgstr ""
+
+#: lib/common.inc.php:847
+msgid ""
+"Hi Trainer! \n"
+"\t\t\t\t\t\t\t\n"
+"Just to let you know, {USER_NAME} has just completed 'Module {MODULE_NUMBER} "
+"- {MODULE_TITLE}'.\n"
+"\n"
+"{SITE_NAME}\n"
+"{SITE_URL}\n"
+msgstr ""
+
+#: lib/common.inc.php:897
+msgid "Course Complete Notification - {USER_NAME} - '{COURSE_TITLE}'"
+msgstr ""
+
+#: lib/common.inc.php:898
+msgid ""
+"Hi Trainer! \n"
+"\t\t\t\t\t\t\t\n"
+"Just to let you know, {USER_NAME} has just completed the '{COURSE_TITLE}' "
+"course.\n"
+"\n"
+"{SITE_NAME}\n"
+"{SITE_URL}\n"
+msgstr ""
+
+#: lib/common.inc.php:995
+msgid "Quiz Needs Grading Notification - {USER_NAME} - '{COURSE_TITLE}'"
+msgstr ""
+
+#: lib/common.inc.php:996
+msgid ""
+"Hi Trainer! \n"
+"\t\t\t\t\t\t\t\n"
+"Just to let you know, {USER_NAME} has just completed a quiz ({QUIZ_TITLE}), "
+"which requires grading. You can grade the question here:\n"
+"{QUIZ_GRADE_URL}\n"
+"\n"
+"{SITE_NAME}\n"
+"{SITE_URL}\n"
+msgstr ""
+
+#: lib/common.inc.php:1441
+msgid "MB"
+msgstr ""
+
+#: lib/common.inc.php:1507
+msgid "Not found."
+msgstr ""
+
+#: lib/documentation.inc.php:10
+msgid "Support Information"
+msgstr ""
+
+#: lib/documentation.inc.php:30
+msgid "Need Fly Plugin Support?"
+msgstr ""
+
+#: lib/documentation.inc.php:51
+#, php-format
+msgid ""
+"If you're in need of support with any Fly Plugin, please <a href=\"%s"
+"\">click here</a>."
+msgstr ""
+
+#: lib/documentation.inc.php:65
+msgid "Want to become an affiliate?"
+msgstr ""
+
+#: lib/documentation.inc.php:67
+msgid ""
+"If you're interested in making money by promoting WP Courseware, please "
+"visit our <a href='http://www.flyplugins.com/affiliate/'>affiliate page</a>."
+msgstr ""
+
+#: lib/documentation.inc.php:79
+msgid "Latest news from FlyPlugins.com"
+msgstr ""
+
+#: lib/documentation.inc.php:90
+msgid "No news items, feed might be broken..."
+msgstr ""
+
+#: lib/documentation.inc.php:103
+msgid "Like Fly Plugins on Facebook"
+msgstr ""
+
+#: lib/documentation.inc.php:104
+msgid "Follow Fly Plugins on Twitter"
+msgstr ""
+
+#: lib/documentation.inc.php:105
+msgid "Watch Fly Plugins on YouTube"
+msgstr ""
+
+#: lib/documentation.inc.php:106
+msgid "Circle Fly Plugins on Google+"
+msgstr ""
+
+#: lib/documentation.inc.php:107
+msgid "Subscribe with RSS"
+msgstr ""
+
+#: lib/documentation.inc.php:108
+msgid "Subscribe by email"
+msgstr ""
+
+#: lib/documentation.inc.php:130
+msgid "Course Progress Shortcodes"
+msgstr ""
+
+#: lib/documentation.inc.php:131
+msgid ""
+"To show the current user progress, you can use the <code>[wpcourse]</code> "
+"shortcode. Here's a summary of the shortcode parameters for <code>[wpcourse]"
+"</code>:"
+msgstr ""
+
+#: lib/documentation.inc.php:133
+msgid "course"
+msgstr ""
+
+#: lib/documentation.inc.php:134
+msgid "<em>(Required)</em> The ID of the course to show."
+msgstr ""
+
+#: lib/documentation.inc.php:136
+msgid "show_title"
+msgstr ""
+
+#: lib/documentation.inc.php:137
+msgid ""
+"<em>(Optional)</em> If true, show the course title. (It can be <b>true</b> "
+"or <b>false</b>. By default, it's <b>false</b>)."
+msgstr ""
+
+#: lib/documentation.inc.php:139
+msgid "show_desc"
+msgstr ""
+
+#: lib/documentation.inc.php:140
+msgid ""
+"<em>(Optional)</em> If true, show the course description. (It can be "
+"<b>true</b> or <b>false</b>. By default, it's <b>false</b>)."
+msgstr ""
+
+#: lib/documentation.inc.php:142
+msgid "module"
+msgstr ""
+
+#: lib/documentation.inc.php:143
+msgid ""
+"<em>(Optional)</em> The number of the module to show from the specified "
+"course."
+msgstr ""
+
+#: lib/documentation.inc.php:145
+msgid "module_desc"
+msgstr ""
+
+#: lib/documentation.inc.php:146
+msgid ""
+"<em>(Optional)</em> If true, show the module descriptions. (It can be "
+"<b>true</b> or <b>false</b>. By default, it's <b>false</b>)."
+msgstr ""
+
+#: lib/documentation.inc.php:150
+msgid "Here are some examples of how <code>[wpcourse]</code> shortcode works:"
+msgstr ""
+
+#: lib/documentation.inc.php:152
+msgid ""
+"Example 1: <code>[wpcourse course=\"2\" module_desc=\"false\" show_title="
+"\"false\" show_desc=\"false\" /]</code>"
+msgstr ""
+
+#: lib/documentation.inc.php:153
+msgid ""
+"Shows course 2, just with module and unit titles. Do not show course title, "
+"course description or module descriptions."
+msgstr ""
+
+#: lib/documentation.inc.php:155
+msgid "Example 2: <code>[wpcourse course=\"2\" /]</code>"
+msgstr ""
+
+#: lib/documentation.inc.php:156
+msgid "Exactly the same output as example 1."
+msgstr ""
+
+#: lib/documentation.inc.php:158
+msgid ""
+"Example 3: <code>[wpcourse course=\"1\" module=\"4\" module_desc=\"true\" /]"
+"</code>"
+msgstr ""
+
+#: lib/documentation.inc.php:159
+msgid ""
+"Shows module 4 from course 1, with module titles and descriptions, and unit "
+"titles."
+msgstr ""
+
+#: lib/documentation.inc.php:161
+msgid ""
+"Example 4: <code>[wpcourse course=\"1\" module_desc=\"true\" show_title="
+"\"true\" show_desc=\"true\" /]</code>"
+msgstr ""
+
+#: lib/documentation.inc.php:162
+msgid ""
+"Shows course 1, with course title, course description, module title, module "
+"description and unit titles."
+msgstr ""
+
+#: lib/documentation.inc.php:169
+msgid "WP Courseware Video Tutorials"
+msgstr ""
+
+#: lib/documentation.inc.php:171
+msgid "How to create a new course"
+msgstr ""
+
+#: lib/documentation.inc.php:175
+msgid "How to create a new module"
+msgstr ""
+
+#: lib/documentation.inc.php:179
+msgid "How to create a new unit and assign it to a module"
+msgstr ""
+
+#: lib/documentation.inc.php:183
+msgid "How to edit and convert a post into a unit"
+msgstr ""
+
+#: lib/documentation.inc.php:187
+msgid "How to create a quiz"
+msgstr ""
+
+#: lib/documentation.inc.php:191
+msgid "How to add a course outline page"
+msgstr ""
+
+#: lib/documentation.inc.php:195
+msgid "How to add a course menu widget to the sidebar"
+msgstr ""
+
+#: lib/documentation.inc.php:199
+msgid "How to enroll students and track their progress"
+msgstr ""
+
+#: lib/documentation.inc.php:203
+msgid "How to use the grade book"
+msgstr ""
+
+#: lib/documentation.inc.php:207
+msgid "How to import and export a course"
+msgstr ""
+
+#: lib/documentation.inc.php:211
+msgid "Bulk User Import and Course Enrollment via CSV"
+msgstr ""
+
+#: lib/documentation.inc.php:215
+msgid "How to Generate a PDF Certificate of Completion for Your Course"
+msgstr ""
+
+#: lib/documentation.inc.php:219
+msgid "WP Courseware Automated Course Enrollment with S2 Member"
+msgstr ""
+
+#: lib/documentation.inc.php:223
+msgid "WP Courseware Automated Course Enrollment with Magic Members"
+msgstr ""
+
+#: lib/documentation.inc.php:227
+msgid "WP Courseware Automated Course Enrollment with WishList Member"
+msgstr ""
+
+#: lib/email_defaults.inc.php:6
+msgid "Module {MODULE_TITLE} - Complete."
+msgstr ""
+
+#: lib/email_defaults.inc.php:7
+msgid ""
+"Hi {USER_NAME}\n"
+"\n"
+"Great work for completing the \"{MODULE_TITLE}\" module!\n"
+"\n"
+"{SITE_NAME}\n"
+"{SITE_URL}"
+msgstr ""
+
+#: lib/email_defaults.inc.php:18
+msgid "Course {COURSE_TITLE} - Complete"
+msgstr ""
+
+#: lib/email_defaults.inc.php:19
+msgid ""
+"Hi {USER_NAME}\n"
+"\n"
+"Great work for completing the \"{COURSE_TITLE}\" training course! "
+"Fantastic!\n"
+"\n"
+"{SITE_NAME}\n"
+"{SITE_URL}"
+msgstr ""
+
+#: lib/email_defaults.inc.php:30
+msgid "{COURSE_TITLE} - Your Quiz Grade - For \"{QUIZ_TITLE}\""
+msgstr ""
+
+#: lib/email_defaults.inc.php:31
+msgid ""
+"Hi {USER_NAME}\n"
+"\n"
+"Your grade for the \"{QUIZ_TITLE}\" quiz is: \n"
+"{QUIZ_GRADE} \n"
+"\n"
+"This was for the quiz at the end of this unit:\n"
+"{UNIT_URL}\n"
+"\n"
+"{QUIZ_RESULT_DETAIL}\n"
+"\n"
+"{SITE_NAME}\n"
+"{SITE_URL}"
+msgstr ""
+
+#: lib/email_defaults.inc.php:48
+msgid "Your final grade summary for \"{COURSE_TITLE}\""
+msgstr ""
+
+#: lib/email_defaults.inc.php:49
+msgid ""
+"Hi {USER_NAME}\n"
+"\n"
+"Congratulations on completing the \"{COURSE_TITLE}\" training course! "
+"Fantastic!\n"
+"\n"
+"Your final grade is: {CUMULATIVE_GRADE} \n"
+"\n"
+"Here is a summary of your quiz results:\n"
+"{QUIZ_SUMMARY}\n"
+"\n"
+"You can download your certificate here:\n"
+"{CERTIFICATE_LINK}\n"
+"\n"
+"I hope you enjoyed the course!\n"
+"\n"
+"{SITE_NAME}\n"
+"{SITE_URL}"
+msgstr ""
+
+#: lib/export_data.inc.php:76 lib/export_data.inc.php:77
+msgid "Test Course"
+msgstr ""
+
+#: lib/export_data.inc.php:158
+msgid "Name"
+msgstr ""
+
+#: lib/export_data.inc.php:159
+msgid "Username"
+msgstr ""
+
+#: lib/export_data.inc.php:160
+msgid "Email Address"
+msgstr ""
+
+#: lib/export_data.inc.php:161
+msgid "Course Progress"
+msgstr ""
+
+#: lib/export_data.inc.php:163
+msgid "Has Grade Been Sent?"
+msgstr ""
+
+#: lib/export_data.inc.php:169
+msgid "Is Certificate Available?"
+msgstr ""
+
+#: lib/frontend_only.inc.php:77
+msgid ""
+"An error occured, so your unit progress was not updated. Please refresh the "
+"page and try again."
+msgstr ""
+
+#: lib/frontend_only.inc.php:103
+msgid "The course instructor has required that you retake this quiz."
+msgstr ""
+
+#: lib/frontend_only.inc.php:104
+#, php-format
+msgid "Your previous grade was: <b>%s</b>"
+msgstr ""
+
+#: lib/frontend_only.inc.php:146
+msgid "Mark as Completed"
+msgstr ""
+
+#: lib/frontend_only.inc.php:200
+#, php-format
+msgid ""
+"You'll need to correctly answer at least <b>%d of the %d</b> questions below "
+"(<b>at least %d%%</b>) to progress to the next unit."
+msgstr ""
+
+#: lib/frontend_only.inc.php:293
+msgid "Submit Answers"
+msgstr ""
+
+#: lib/frontend_only.inc.php:421
+msgid "Thank you for your responses. This unit is now complete."
+msgstr ""
+
+#: lib/frontend_only.inc.php:466 lib/frontend_only.inc.php:482
+#, php-format
+msgid ""
+"You got <b>%d out of %d (%d%%)</b> questions correct! This unit is now "
+"complete."
+msgstr ""
+
+#: lib/frontend_only.inc.php:494
+#, php-format
+msgid ""
+"Unfortunately, you only got <b>%d out of %d (%d%%)</b> questions correct. "
+"You need to correctly answer <b>at least %d questions (%d%%)</b>."
+msgstr ""
+
+#: lib/frontend_only.inc.php:676
+msgid "Correct Answers for: "
+msgstr ""
+
+#: lib/frontend_only.inc.php:821
+msgid "Download Certificate"
+msgstr ""
+
+#: lib/frontend_only.inc.php:863
+msgid "Previous Unit"
+msgstr ""
+
+#: lib/frontend_only.inc.php:876
+msgid "Next Unit"
+msgstr ""
+
+#: lib/frontend_only.inc.php:950
+msgid "Powered By"
+msgstr ""
+
+#: lib/shortcodes.inc.php:80
+msgid "Unrecognised course ID."
+msgstr ""
+
+#: lib/shortcodes.inc.php:96
+msgid "Could not find module."
+msgstr ""
+
+#: lib/shortcodes.inc.php:108
+msgid "There are no modules in this training course."
+msgstr ""
+
+#: lib/shortcodes.inc.php:303
+msgid "There are no units in this module."
+msgstr ""
+
+#: lib/widget_progress.inc.php:15
+msgid ""
+"A widget that shows the current progress of the user through the selected "
+"training course."
+msgstr ""
+
+#: lib/widget_progress.inc.php:26
+msgid "WPCW Course Progress"
+msgstr ""
+
+#: lib/widget_progress.inc.php:112
+msgid "Current User Progress"
+msgstr ""
+
+#: lib/widget_progress.inc.php:130
+msgid "All previous modules"
+msgstr ""
+
+#: lib/widget_progress.inc.php:131 lib/widget_progress.inc.php:139
+msgid "None"
+msgstr ""
+
+#: lib/widget_progress.inc.php:138
+msgid "All subsequent modules"
+msgstr ""
+
+#: lib/widget_progress.inc.php:148
+msgid "Title:"
+msgstr ""
+
+#: lib/widget_progress.inc.php:150
+msgid "(Optional) Leave blank for no title."
+msgstr ""
+
+#: lib/widget_progress.inc.php:154
+msgid "Course To Show:"
+msgstr ""
+
+#: lib/widget_progress.inc.php:158
+msgid "Show User's Current Course"
+msgstr ""
+
+#: lib/widget_progress.inc.php:169
+msgid ""
+"(Required) Choose whether to display a specific course to the user or to "
+"display the course associated with the unit that the user is currently "
+"viewing."
+msgstr ""
+
+#: lib/widget_progress.inc.php:173
+msgid "Show/Hide Modules:"
+msgstr ""
+
+#: lib/widget_progress.inc.php:174
+msgid ""
+"Here you can control how many modules to show before and after the current "
+"module to save space."
+msgstr ""
+
+#: lib/widget_progress.inc.php:179
+msgid "Previous modules to display:"
+msgstr ""
+
+#: lib/widget_progress.inc.php:180
+msgid "Subsequent modules to display:"
+msgstr ""
+
+#: lib/widget_progress.inc.php:199
+msgid "Expand/Contract Modules:"
+msgstr ""
+
+#: lib/widget_progress.inc.php:203
+msgid "Expand all modules"
+msgstr ""
+
+#: lib/widget_progress.inc.php:204
+msgid "Contract all except current module"
+msgstr ""
+
+#: lib/widget_progress.inc.php:205
+msgid "Contract all modules"
+msgstr ""
+
+#: lib/widget_progress.inc.php:209
+msgid ""
+"You can save sidebar space by contracting  modules in the widget to just "
+"show the module title."
+msgstr ""
+
+#: lib/widget_progress.inc.php:223
+msgid "More Options:"
+msgstr ""
+
+#: lib/widget_progress.inc.php:224
+msgid "Show Course Title"
+msgstr ""
+
+#: lib/widget_progress.inc.php:225
+msgid "Show Course Description"
+msgstr ""
+
+#: lib/widget_progress.inc.php:226
+msgid "Show Module Descriptions"
+msgstr ""
+
+#: lib/widget_progress.inc.php:228
+msgid "Only display this widget when showing a course unit"
+msgstr ""
+
+#: pdf/pdf_certificates.inc.php:154
+msgid "This is to certify that"
+msgstr ""
+
+#: pdf/pdf_certificates.inc.php:163
+msgid "has successfully completed"
+msgstr ""
+
+#: pdf/pdf_certificates.inc.php:182
+msgid "Date"
+msgstr ""
+
+#: pdf/pdf_certificates.inc.php:186
+msgid "Instructor"
+msgstr ""
+
+#: wplib/utils_easyform.inc.php:135
+msgid "Save"
+msgstr ""
+
+#: wplib/utils_settings.inc.php:54
+msgid "Save Settings"
+msgstr ""

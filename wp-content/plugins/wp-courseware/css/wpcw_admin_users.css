@@ -1,0 +1,62 @@
+/**
+ * CSS shown on users.php page and edit.php?post_type=course_unit in wp-admin.
+ */
+.wpcw_col_user_details span {
+	display: block;
+	margin: 0 0 2px;
+}
+
+.wpcw_col_cell_name {
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.wpcw_col_cell_role {
+	font-size: 90%;
+}
+
+/* Posts */
+.wpcw_col_module_and_course span {
+	display: block;
+	margin: 0 0 2px;
+}
+
+/* Progress */
+.wpcw_progress_bar_title {
+	line-height: 20px;
+}
+
+.wpcw_progress_wrap {
+	display: block;
+	margin: 0 0 4px;
+}
+
+.wpcw_progress_bar {
+	background: #CCC;
+	width: 100px;
+	display: inline-block;
+	border: 1px solid #999;
+	margin-right: 5px;
+	line-height: 20px;
+}
+
+.wpcw_progress_value {
+	background: green;
+}
+
+.wpcw_progress_text {
+	color: #FFF;
+	text-align: center;
+	font-weight: bold;
+	min-width: 50px;
+}
+
+/* Other Fields */
+.widefat .wpcw_col_training_courses_access {
+	padding-top: 10px;
+}
+
+.wpcw_col_training_courses_access span {
+	display: block;
+	padding-bottom: 10px;
+}
