@@ -1,0 +1,19 @@
+{
+  "name": "sumatealexito",
+  "version": "0.1.0",
+  "homepage": "https://about.me/jalp",
+  "authors": [
+    "Julio Laveriano en SITATEL <julioantonio.lp@gmail.com>"
+  ],
+  "description": "Web Sumate al Exito",
+  "main": "bower.js",
+  "keywords": [
+    "css",
+    "js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "font-awesome": "~4.3.0"
+  }
+}

@@ -1,18 +1,28 @@
 *.log
 wp-config.php
 robots.txt
+prueba.php
+backup*.zip
+*.sql
 ajax/
+dev/
+prod/
+node_modules
+wp-content/plugins
+wp-content/themes
+wp-content/uploads
 
+############################
+############################
 # Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
-
+############################
+############################
 # sublimetext
 /*.sublime-project
 *.sublime-workspace
 
 
-backup*.zip
-*.sql
