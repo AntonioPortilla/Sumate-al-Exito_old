@@ -1,19 +1,20 @@
 *.log
+*.sql
+.htaccess
 wp-config.php
-#robots.txt
+robots.txt
 prueba.php
 backup*.zip
 copy-wp-config.php
-*.sql
 ajax/
 dev/
 prod/
-act_wp-admin
-act_wp-includes
+act_wp-admin/
+act_wp-includes/
 node_modules/
-#wp-content/plugins
-#wp-content/themes
-#wp-content/uploads
+wp-content/plugins
+wp-content/themes
+wp-content/uploads/
 
 ############################
 ############################
