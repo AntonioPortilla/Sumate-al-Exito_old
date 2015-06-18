@@ -508,7 +508,7 @@ function op_page_feature_title(){
 function op_page_footer(){
 	$op_fonts = new OptimizePress_Fonts;
 	if((($footer = op_page_option('footer_area')) !== false) && op_get_var($footer,'enabled') == 'Y'): ?>
-		<div class="full-width footer small-footer-text">
+		<footer class="full-width footer small-footer-text">
         	<?php
 			if(!(op_page_config('disable','layout','footer_area','large_footer') === true)){
 				if(isset($footer['large_footer']) && isset($footer['large_footer']['enabled']) && $footer['large_footer']['enabled'] == 'Y'){
@@ -584,9 +584,8 @@ function op_page_footer(){
 					$disclaimer = op_get_var($footer,'footer_disclaimer',array());
 					$site_footer = op_default_option('site_footer');
 					$disc = (!empty($disclaimer['message']) ? $disclaimer['message'] : $site_footer['disclaimer']);
-					//Print out the disclaimer if it's not empty
-					echo (!empty($disc) && $disclaimer['enabled']=='Y' ? '<small class="footer-disclaimer">'.stripslashes($disc).'</small>' : '');
 					//Echo out the nav if it's set
+					echo '<div class="footer-left">';
 					echo (!empty($footer['nav']) ? '
 						<nav class="footer-navigation">
 							<ul id="nav-footer" class="inline-nav">
@@ -605,13 +604,15 @@ function op_page_footer(){
 					//Print out the copyright notice
 					//$copy = op_default_option('copyright_notice');
 					echo (!empty($site_footer['copyright']) ? '<p class="footer-copyright">'.$site_footer['copyright'].'</p>' : '');
-
+					echo '</div>';
 					//Display any additional information
-					op_mod('promotion')->display();
+					//Print out the disclaimer if it's not empty
+					echo (!empty($disc) && $disclaimer['enabled']=='Y' ? '<div class="footer-right"><small class="footer-disclaimerSEX">'.stripslashes($disc).'</small></div>' : '');
+					//op_mod('promotion')->display();
 				?>
 				</div>
 			</div>
-		</div>
+		</footer>
         <?php
 	endif;
 }

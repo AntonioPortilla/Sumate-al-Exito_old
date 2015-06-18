@@ -66,9 +66,6 @@ wp_head();
 	else{
 	 
 	}
-
-
-
 </script>
 </body>
 </html>

@@ -2,13 +2,11 @@
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /
-RewriteRule ^request/sign/$ ajax/ajax.sumate.php [L]
-
+RewriteBase /sumatealexito/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
+RewriteRule . /sumatealexito/index.php [L]
 </IfModule>
 
 # END WordPress

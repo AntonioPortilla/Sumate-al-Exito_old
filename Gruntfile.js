@@ -2,10 +2,13 @@ var path          = require('path');
 var stylusDir     = 'dev/css';
 var javascriptDir = 'public/javascript';
 var JALP          = 'tu-papa';
+/*var error = chalk.bold.red;
+    console.log(error('Error!'));*/
 
 module.exports = function(grunt) {
 
   // Project configuration.
+  var chalk = require('chalk');
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     concat: {
@@ -17,7 +20,10 @@ module.exports = function(grunt) {
             dest: 'prod/css/styles.css'
         },
         scripts: {
-            src: ['dev/js/script.js', 'dev/js/holder.js'],
+            src: [
+                  'dev/js/jquery.sabecarousel.js',
+                  'dev/js/script.js'
+                  ],
             dest: 'prod/js/scripts.js'
         }
     },
@@ -107,6 +113,25 @@ module.exports = function(grunt) {
           message: 'Server está listo!'
         }
       }
+    },
+    attention: {
+      connect: {
+        options: {
+          message: 'Server started: ' +
+            chalk.underline.cyan('Tareas ejecutadas correctamente'),
+          border: 'double',
+          borderColor: 'bgGreen'
+        },
+        s3: {
+        options: {
+          message: chalk.green.bold('Files have been pushed to S3.') +
+              '\n\n' +
+              chalk.green('coneccion successfully....'),
+          border: 'double',
+          borderColor: 'bgGreen'      }
+        }
+   
+      }
     }
 
 
@@ -122,11 +147,12 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-pagespeed');
   grunt.loadNpmTasks('grunt-notify');
+  grunt.loadNpmTasks('grunt-attention');
 
   // Default task(s).
   grunt.registerTask('concatenando', ['concat']);
   grunt.registerTask('minify', ['cssmin', 'uglify']);
-  grunt.task.run('notify_hooks');
-  grunt.registerTask('public', ['concatenando','minify','notify:server']);
+  
+  grunt.registerTask('public', ['concatenando','minify','notify:server', 'attention']);
 
 };

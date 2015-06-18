@@ -1,16 +1,17 @@
 *.log
 wp-config.php
-robots.txt
+#robots.txt
 prueba.php
 backup*.zip
+copy-wp-config.php
 *.sql
 ajax/
 dev/
 prod/
 node_modules
-wp-content/plugins
-wp-content/themes
-wp-content/uploads
+#wp-content/plugins
+#wp-content/themes
+#wp-content/uploads
 
 ############################
 ############################
