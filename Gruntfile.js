@@ -34,7 +34,7 @@ module.exports = function(grunt) {
     cssmin: {
       compress: {
         files: {
-          "public/css/styles.min.css": 'prod/css/styles.css'
+          "public/css/styles.min.css": 'prod/css/styles.css'          
         }
       }
     },        
@@ -138,7 +138,6 @@ module.exports = function(grunt) {
       }
     }
 
-
   });
 
   // Load the plugin that provides the "uglify" task.
@@ -151,12 +150,11 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-pagespeed');
   grunt.loadNpmTasks('grunt-notify');
-  grunt.loadNpmTasks('grunt-attention');
+  grunt.loadNpmTasks('grunt-attention'); 
 
   // Default task(s).
   grunt.registerTask('concatenando', ['concat']);
-  grunt.registerTask('minify', ['cssmin', 'uglify']);
-  
+  grunt.registerTask('minify', ['cssmin', 'uglify']);  
   grunt.registerTask('public', ['concatenando','minify','notify:server', 'attention']);
 
 };
