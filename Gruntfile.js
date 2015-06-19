@@ -16,7 +16,11 @@ module.exports = function(grunt) {
             stripBanners: true
         },
         styles: {
-            src: 'dev/css/*.css',
+            src: [
+                  'dev/css/JALP.css',
+                  'dev/css/sabecarousel.css',
+                  'dev/css/stylus.css'
+                  ],
             dest: 'prod/css/styles.css'
         },
         scripts: {
