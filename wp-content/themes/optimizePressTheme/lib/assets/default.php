@@ -2347,7 +2347,7 @@ class OptimizePress_Default_Assets {
         //Make sure the image is not empty before we continue
         if(!empty($image)){
             //Set up the image tag
-            $img = '<img alt="'.$alt_text.'" src="'.$image.'" border="0"'.($full_width=='Y' ? ' class="full-width"' : '').' />';
+            $img = '<img title="'. $alt_text .'" alt="'.$alt_text.'" src="'.$image.'" border="0"'.($full_width=='Y' ? ' class="full-width"' : '').' />';
 
             //Set the link if it exists
             if(!empty($link_url)){
@@ -2391,7 +2391,7 @@ class OptimizePress_Default_Assets {
 
             //Finally return the processed HTML
             $output = '
-                <div class="image-caption'.$frame_style.'"'.$style_str.'>'
+                <div class="image-caption img-title'.$frame_style.'"'.$style_str.'>'
                     .$img.(empty($caption) ? '' : '<p class="wp-caption-text">'.$caption.'</p>').
                 '</div>
             ';

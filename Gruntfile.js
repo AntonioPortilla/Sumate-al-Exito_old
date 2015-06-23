@@ -57,27 +57,7 @@ module.exports = function(grunt) {
     },
     jshint: {
       all: ['Gruntfile.js', 'dev/js/script.js']
-    },
-    stylus: {
-        compile: {
-            options: {
-                paths: [stylusDir],
-                'include css': true
-            },
-            files: {
-                'public/css/styles.min.css': stylusDir + '/estilos.styl' 
-            }
-        }
-    },
-    watch: {
-      stylesheets: {
-          files: [stylusDir + '/**/*.styl', stylusDir + '/**/*.css'],
-          tasks: ['stylus'],
-          options: {
-              interrupt: true
-          }
-      }
-    },
+    },    
     pagespeed: {
       options: {
         nokey: true,
@@ -144,7 +124,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.loadNpmTasks('grunt-contrib-stylus');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-contrib-jshint');
