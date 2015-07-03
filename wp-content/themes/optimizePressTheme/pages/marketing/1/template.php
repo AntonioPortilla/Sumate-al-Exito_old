@@ -35,14 +35,13 @@ wp_head();
 <?php op_footer() ?>
 <script>
 	jQuery('#navigation-alongside li>a').css('border-radius','6px');
-	
+	//ancho full
 	var bloque = jQuery('.bloque_video_landing');
 	bloque.find('div.fixed-width').find('div').eq(0).removeClass();
-	bloque.find('div').eq(0).removeClass();	
+	bloque.find('div').eq(0).removeClass();
+
 	/*************************************/
 	/*************************************/
-
-
 
 	var mql = window.matchMedia("screen and (max-width: 959px)")
 	if (mql.matches){ // if media query matches
