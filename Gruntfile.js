@@ -17,6 +17,7 @@ module.exports = function(grunt) {
         },
         styles: {
             src: [
+                  'dev/css/animate.css',
                   'dev/css/JALP.css',
                   'dev/css/sabecarousel.css',
                   'dev/css/stylus.css'
@@ -25,6 +26,7 @@ module.exports = function(grunt) {
         },
         scripts: {
             src: [
+                  'dev/js/wow.min.js',
                   'dev/js/jquery.sabecarousel.js',
                   'dev/js/script.js'
                   ],
