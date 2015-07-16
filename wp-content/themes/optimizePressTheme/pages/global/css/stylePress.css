@@ -899,7 +899,7 @@ padding: 3px 0;
 }
 
 #form_desktop input[type="text"], #form_desktop input[type="email"], #form_desktop select{
-    background: #EFEFEF !important;
+    background: #EFEFEF;
     border-radius: 12px !important;
     color: #1a1e1d !important;
     font-family: 'os-regular';
