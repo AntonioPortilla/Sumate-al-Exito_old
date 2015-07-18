@@ -131,7 +131,8 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-pagespeed');
   grunt.loadNpmTasks('grunt-notify');
-  grunt.loadNpmTasks('grunt-attention'); 
+  grunt.loadNpmTasks('grunt-attention');
+//  grunt.loadNpmTasks('grunt-contrib-less');
 
   // Default task(s).
   grunt.registerTask('concatenando', ['concat']);

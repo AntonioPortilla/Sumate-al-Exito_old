@@ -101,9 +101,6 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	}
 }
 @media(max-width: 959px){
-	body{
-		background: #C7C6C6 !important;
-	}
 	.bloque_video_landing{
 		display: none;
 	}
