@@ -12,9 +12,11 @@ prod/
 act_wp-admin/
 act_wp-includes/
 node_modules/
+bower_components/
 wp-content/plugins/
 wp-content/themes/
 wp-content/uploads/
+wordpress*.zip
 
 ############################
 ############################
