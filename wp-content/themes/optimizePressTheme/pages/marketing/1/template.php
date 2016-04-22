@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="https://service.v2contact.com/chat/css">
-<script src="https://service.v2contact.com/chat/api-source"></script>
+<!--<link rel="stylesheet" href="https://service.v2contact.com/chat/css">-->
+<link rel="stylesheet" href="http://service.v2contact.com/chat/css">
+<script src="http://service.v2contact.com/chat/api-source"></script>
 <?php
 global $post;
 $class = (defined('OP_LIVEEDITOR') ? ' op-live-editor' : '');
